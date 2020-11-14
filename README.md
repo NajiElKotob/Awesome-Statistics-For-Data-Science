@@ -18,9 +18,9 @@
   * [What’s the difference between univariate, bivariate and multivariate descriptive statistics?](https://www.scribbr.com/frequently-asked-questions/univariate-vs-bivariate-vs-multivariate/) - scribbr.com
   * [What is a multivariate relationship?](https://treehozz.com/what-is-a-multivariate-relationship)
 
-
-### Research
-* [Basic vs. Applied Research](https://www.utep.edu/couri/about-ug-research/basic-vs-applied-research.html) - utep.edu
+### Algorithms 
+* Regression
+  * [zedstatistics](https://www.youtube.com/watch?v=aq8VU5KLmkY&list=PLTNMv857s9WUI1Nz4SssXDKAELESXz-bi)
 
 ### Other Topics
 * Equations and Functions
