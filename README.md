@@ -26,7 +26,8 @@
 * Equations and Functions
   * [The Distributive Property (Video)](https://www.youtube.com/watch?v=v-6MShC82ow) - Algebra Basics: The Distributive Property - Math Antics
 * Aggregation
-  * [The perils of calculating an Average of Averages](http://geekswithblogs.net/darrengosbell/archive/2014/07/28/the-perils-of-calculating-an-average-of-averages.aspx)
+  * [The perils of calculating an Average of Averages](http://geekswithblogs.net/darrengosbell/archive/2014/07/28/the-perils-of-calculating-an-average-of-averages.aspx) - Darren Gosbell
+  * [Calculating a Weighted Average (Average of Averages)](https://help.analyticsedge.com/howto/calculating-the-average-of-averages/)- Analytics Edge
 * Derivatives and Optimizations
 * Vectors and Matrices
 * Statistics and Probability
