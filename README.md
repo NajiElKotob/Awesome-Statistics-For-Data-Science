@@ -7,6 +7,8 @@
 * What is data?
 * Population vs. Sample 
 * Measures of Central Tendency 
+* Quartiles
+  * [Quartiles](https://www.mathsisfun.com/data/quartiles.html) are the values that divide a list of numbers into quarters - mathsisfun.com
 * Measures of Variability 
 * Hypothesis Testing 
 * Measures of Association
