@@ -13,7 +13,10 @@
   * Percentiles
     * The 30th percentile is the value from the data set greater than 30% of observations, and therefore less than 70% of observations. 
     * Median = 50th percentile
+    * 1st Quartile = 25th percentile
+    * 3rd Quartile = 75th percentile
   * [Quartiles](https://www.mathsisfun.com/data/quartiles.html) are the values that divide a list of numbers into quarters - mathsisfun.com
+    * Interquartile range =  3rd quartile - 1st quartile
 * Hypothesis Testing 
 * Measures of Association
   * Correlation Coefficients 
