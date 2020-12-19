@@ -17,6 +17,7 @@
     * 3rd Quartile = 75th percentile
   * [Quartiles](https://www.mathsisfun.com/data/quartiles.html) are the values that divide a list of numbers into quarters - mathsisfun.com
     * Interquartile range =  3rd quartile - 1st quartile
+    * Quintile - "A quintile is one of five values that divide a range of data into five equal parts, each being 1/5th (20 percent) of the range." [Investopedia](https://www.investopedia.com/terms/q/quintile.asp)
 * Hypothesis Testing 
 * Measures of Association
   * Correlation Coefficients 
