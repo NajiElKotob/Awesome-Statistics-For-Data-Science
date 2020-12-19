@@ -5,6 +5,7 @@
 ## Math and Statistics
 ### Statistics Primer
 * What is data?
+* Data Types
 * Population vs. Sample 
 * Measures of Central Tendency 
 * Measures of Variability 
