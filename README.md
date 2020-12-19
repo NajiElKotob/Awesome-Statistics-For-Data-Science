@@ -8,7 +8,7 @@
 * Population vs. Sample 
 * Measures of Central Tendency 
 * Variance and Standard Deviation
-* Quartiles
+* Percentiles, Quartiles and Interquartile Range
   * [Quartiles](https://www.mathsisfun.com/data/quartiles.html) are the values that divide a list of numbers into quarters - mathsisfun.com
 * Measures of Variability 
 * Hypothesis Testing 
