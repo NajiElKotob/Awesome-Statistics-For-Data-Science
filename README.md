@@ -7,10 +7,10 @@
 * What is data?
 * Population vs. Sample 
 * Measures of Central Tendency 
-* Variance and Standard Deviation
-* Percentiles, Quartiles and Interquartile Range
-  * [Quartiles](https://www.mathsisfun.com/data/quartiles.html) are the values that divide a list of numbers into quarters - mathsisfun.com
 * Measures of Variability 
+  * Range, Interquartile Range, Variance and Standard Deviation
+* Percentiles and Quartiles
+  * [Quartiles](https://www.mathsisfun.com/data/quartiles.html) are the values that divide a list of numbers into quarters - mathsisfun.com
 * Hypothesis Testing 
 * Measures of Association
   * Correlation Coefficients 
