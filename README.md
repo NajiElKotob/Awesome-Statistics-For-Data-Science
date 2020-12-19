@@ -12,6 +12,7 @@
 * Percentiles and Quartiles
   * Percentiles
     * The 30th percentile is the value from the data set greater than 30% of observations, and therefore less than 70% of observations. 
+    * Median = 50th percentile
   * [Quartiles](https://www.mathsisfun.com/data/quartiles.html) are the values that divide a list of numbers into quarters - mathsisfun.com
 * Hypothesis Testing 
 * Measures of Association
