@@ -41,7 +41,7 @@
 * Comparative Measures 
   * t-Tests
 * Probability Basics
-* Univariate, bivariate and multivariate
+* Univariate, bivariate, multivariate and multivariate multiple analysis (MMR)
   * [What’s the difference between univariate, bivariate and multivariate descriptive statistics?](https://www.scribbr.com/frequently-asked-questions/univariate-vs-bivariate-vs-multivariate/) - scribbr.com
   * [What is a multivariate relationship?](https://treehozz.com/what-is-a-multivariate-relationship)
   
