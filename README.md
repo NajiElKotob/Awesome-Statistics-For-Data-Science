@@ -6,7 +6,9 @@
 ### Statistics Primer
 * What is data?
 * Data Types
-  * Discrete and Continuous data
+  * Qualitative vs Quantitative
+    * Discrete and Continuous
+    * Nominal and Ordinal
 * Population vs. Sample 
 * Measures of Central Tendency 
 * Measures of Variability 
