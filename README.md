@@ -9,6 +9,8 @@
   * Qualitative vs Quantitative
     * Discrete and Continuous
     * Nominal and Ordinal
+  * References
+    * [Types of Data & Measurement Scales: Nominal, Ordinal, Interval and Ratio](https://www.mymarketresearchmethods.com/types-of-data-nominal-ordinal-interval-ratio/) - mymarketresearchmethods.com
 * Population vs. Sample 
 * Measures of Central Tendency 
 * Measures of Variability 
