@@ -59,3 +59,4 @@
 * Derivatives and Optimizations
 * Vectors and Matrices
 * Statistics and Probability
+* Wide and Long data
