@@ -30,6 +30,7 @@
 * Correlation and Causation
   * References
     * [What Do Correlation Coefficients Positive, Negative, and Zero Mean?](https://www.investopedia.com/ask/answers/032515/what-does-it-mean-if-correlation-coefficient-positive-negative-or-zero.asp) - investopedia.com
+    * [Correlation vs Causation: Understand the Difference for Your Product](https://blog.amplitude.com/causation-correlation) - amplitude.com
 * Hypothesis Testing 
 * Measures of Association
   * Correlation Coefficients 
