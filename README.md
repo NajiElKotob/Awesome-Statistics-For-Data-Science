@@ -1,6 +1,6 @@
 # Awesome Statistics For Data Science
 
-[WIP]
+{Work in Process... Stay Tuned}
 
 ## Math and Statistics
 ### Statistics Primer
@@ -21,7 +21,6 @@
     * Interquartile range =  3rd quartile - 1st quartile
     * Quintile - "A quintile is one of five values that divide a range of data into five equal parts, each being 1/5th (20 percent) of the range." [Investopedia](https://www.investopedia.com/terms/q/quintile.asp)
     * Decile - Devide a range of data into ten equal parts, each being 1/10th (10 percent) of the range. 1st and 9th deciles equal to 10th and 90th percentiles.
-
 * Binning
   * [Freedman–Diaconis rule](https://en.wikipedia.org/wiki/Freedman%E2%80%93Diaconis_rule)
 * Hypothesis Testing 
