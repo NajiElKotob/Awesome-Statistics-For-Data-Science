@@ -14,7 +14,11 @@
 * Population vs. Sample 
 * Measures of Central Tendency
 * Measures of Variability 
-  * Range, Interquartile Range, Variance and Standard Deviation
+  * Range
+  * Interquartile Range
+  * Variance
+  * Standard Deviation
+    * Standard deviation (S) = square root of the variance
 * Percentiles and Quartiles
   * Percentiles
     * The 30th percentile is the value from the data set greater than 30% of observations, and therefore less than 70% of observations. 
