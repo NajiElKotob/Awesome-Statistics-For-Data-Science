@@ -27,6 +27,7 @@
     * Decile - Devide a range of data into ten equal parts, each being 1/10th (10 percent) of the range. 1st and 9th deciles equal to 10th and 90th percentiles.
 * Binning
   * [Freedman–Diaconis rule](https://en.wikipedia.org/wiki/Freedman%E2%80%93Diaconis_rule)
+* Correlation and Causation
 * Hypothesis Testing 
 * Measures of Association
   * Correlation Coefficients 
