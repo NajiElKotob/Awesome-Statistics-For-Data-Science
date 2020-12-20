@@ -28,6 +28,8 @@
 * Binning
   * [Freedman–Diaconis rule](https://en.wikipedia.org/wiki/Freedman%E2%80%93Diaconis_rule)
 * Correlation and Causation
+  * References
+    * [What Do Correlation Coefficients Positive, Negative, and Zero Mean?](https://www.investopedia.com/ask/answers/032515/what-does-it-mean-if-correlation-coefficient-positive-negative-or-zero.asp) - investopedia.com
 * Hypothesis Testing 
 * Measures of Association
   * Correlation Coefficients 
