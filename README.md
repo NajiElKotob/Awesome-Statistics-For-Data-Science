@@ -61,6 +61,7 @@
 * Vectors and Matrices
 * Statistics and Probability
 * Wide and Long data
+* [Pairwise vs. Listwise deletion](https://www.ibm.com/support/pages/pairwise-vs-listwise-deletion-what-are-they-and-when-should-i-use-them)
 
 -----
 
