@@ -2,7 +2,7 @@
 
 {Work in Process... Stay Tuned}
 
-## Math and Statistics
+## Numbers and Statistics
 ### Statistics Primer
 * What is data?
 * Data Types
