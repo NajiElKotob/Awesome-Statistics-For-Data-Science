@@ -75,6 +75,10 @@
 
 -----
 
+#### Books
+* [Mathematics for Machine Learning](https://mml-book.github.io/)
+
+-----
 ### Tools
 * [DrawMyData](http://robertgrantstats.co.uk/drawmydata.html) - a tool for teaching stats and data science by Robert Grant
 * [Desmos - Graphing Calculator](https://www.desmos.com/calculator) - desmos.com
