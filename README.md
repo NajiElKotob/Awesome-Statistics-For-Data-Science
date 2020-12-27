@@ -76,6 +76,7 @@
 -----
 
 #### Books
+* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
 
 -----
