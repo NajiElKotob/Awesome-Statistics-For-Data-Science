@@ -76,8 +76,9 @@
 -----
 
 #### Books
-* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
-* [Mathematics for Machine Learning](https://mml-book.github.io/)
+* [Pattern Recognition and Machine Learning (Free)](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
+* [Mathematics for Machine Learning (Free)](https://mml-book.github.io/)
+* [Analysis of Multiple Dependent Variables](https://www.amazon.com/Analysis-Multiple-Dependent-Variables-Research/dp/0199773599)
 
 -----
 ### Tools
