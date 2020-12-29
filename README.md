@@ -64,7 +64,9 @@
 * Statistics and Probability
 * Wide and Long data
 * [Pairwise vs. Listwise deletion](https://www.ibm.com/support/pages/pairwise-vs-listwise-deletion-what-are-they-and-when-should-i-use-them)
-* [Numbers & Statistics](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/apa_numbers_statistics.html) - APA Formatting And Style Guide (7th Edition)
+* APA
+  * [Numbers & Statistics](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/apa_numbers_statistics.html) - APA Formatting And Style Guide (7th Edition)
+  * [Reporting a multiple linear regression in APA](https://www2.slideshare.net/plummer48/reporting-a-multiple-linear-regression-in-apa)
 * Statistical Tests
   * [Choosing the Correct Statistical Test in SAS, Stata, SPSS and R](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/) - stats.idre.ucla.edu
   * [How to choose the right statistical test?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/) - Barun Nayak and Avijit Hazra1
