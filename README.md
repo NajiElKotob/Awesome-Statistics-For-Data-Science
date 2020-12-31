@@ -86,6 +86,9 @@
 * [Mathematics for Machine Learning (Free)](https://mml-book.github.io/)
 * [Analysis of Multiple Dependent Variables](https://www.amazon.com/Analysis-Multiple-Dependent-Variables-Research/dp/0199773599)
 
+#### Tutorials
+* [Praxis Core Math](https://www.khanacademy.org/test-prep/praxis-math/praxis-math-lessons)
+
 -----
 ### Tools
 * [DrawMyData](http://robertgrantstats.co.uk/drawmydata.html) - a tool for teaching stats and data science by Robert Grant
