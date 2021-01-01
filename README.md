@@ -74,7 +74,9 @@
 * Statistical Tests
   * [Choosing the Correct Statistical Test in SAS, Stata, SPSS and R](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/) - stats.idre.ucla.edu
   * [How to choose the right statistical test?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/) - Barun Nayak and Avijit Hazra1
-
+* Math
+  * [Mathematics is the queen of Sciences (Video)](https://www.youtube.com/watch?v=8mve0UoSxTo)
+  
 -----
 
 ### Algorithms 
