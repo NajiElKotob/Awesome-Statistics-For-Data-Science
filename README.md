@@ -76,6 +76,7 @@
   * [How to choose the right statistical test?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/) - Barun Nayak and Avijit Hazra1
 * Math
   * [Mathematics is the queen of Sciences (Video)](https://www.youtube.com/watch?v=8mve0UoSxTo)
+  * [What Is The Fibonacci Sequence?](https://elearningindustry.com/fibonacci-sequence-what-is-and-how-applies-agile-development)
   
 -----
 
