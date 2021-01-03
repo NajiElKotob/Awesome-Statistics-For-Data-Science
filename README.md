@@ -64,6 +64,7 @@
   * [The perils of calculating an Average of Averages](http://geekswithblogs.net/darrengosbell/archive/2014/07/28/the-perils-of-calculating-an-average-of-averages.aspx) - Darren Gosbell
   * [Calculating a Weighted Average (Average of Averages)](https://help.analyticsedge.com/howto/calculating-the-average-of-averages/)- Analytics Edge
 * [Anscombe's Quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
+* [The Datasaurus Dozen](https://www.autodesk.com/research/publications/same-stats-different-graphs) - Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing.
 * Derivatives and Optimizations
 * Vectors and Matrices
 * Wide and Long data
