@@ -49,7 +49,7 @@
 * Hypothesis Testing 
 * Comparative Measures 
   * t-Tests
-* Probability Basics
+* Probability
   * P-value
 * Univariate, bivariate, multivariate and multivariate multiple analysis (MMR)
   * [What’s the difference between univariate, bivariate and multivariate descriptive statistics?](https://www.scribbr.com/frequently-asked-questions/univariate-vs-bivariate-vs-multivariate/) - scribbr.com
@@ -65,7 +65,6 @@
   * [Calculating a Weighted Average (Average of Averages)](https://help.analyticsedge.com/howto/calculating-the-average-of-averages/)- Analytics Edge
 * Derivatives and Optimizations
 * Vectors and Matrices
-* Statistics and Probability
 * Wide and Long data
 * [Pairwise vs. Listwise deletion](https://www.ibm.com/support/pages/pairwise-vs-listwise-deletion-what-are-they-and-when-should-i-use-them)
 * APA
