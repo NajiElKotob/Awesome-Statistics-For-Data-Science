@@ -97,6 +97,7 @@
 
 #### Rating
 * [Absolute Category Rating (ACR)](https://en.wikipedia.org/wiki/Absolute_Category_Rating)
+* [Mean Opinion Score (MOS)](https://www.twilio.com/docs/glossary/what-is-mean-opinion-score-mos)
 
 -----
 ### Tools
