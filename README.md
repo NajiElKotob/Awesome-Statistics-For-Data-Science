@@ -98,7 +98,7 @@
 #### Rating
 * [Absolute Category Rating (ACR)](https://en.wikipedia.org/wiki/Absolute_Category_Rating)
 * [Mean Opinion Score (MOS)](https://www.twilio.com/docs/glossary/what-is-mean-opinion-score-mos)
-
+* [Customer Satisfaction Rating (CSAT)](https://blog.hubspot.com/service/customer-satisfaction-score)
 -----
 ### Tools
 * [DrawMyData](http://robertgrantstats.co.uk/drawmydata.html) - a tool for teaching stats and data science by Robert Grant
