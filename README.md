@@ -3,7 +3,7 @@
 {Work in Process... Stay Tuned}
 
 ## Numbers and Statistics
-### Statistics Primer
+### Statistical Analysis
 * What is data?
 * Data Types
   * Qualitative vs Quantitative
