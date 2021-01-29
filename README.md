@@ -20,6 +20,7 @@
   * Variance
   * Standard Deviation
     * Standard deviation (S) = square root of the variance
+    * The [empirical rule](https://www.investopedia.com/terms/e/empirical-rule.asp), also referred to as the three-sigma rule or 68-95-99.7 rule, is a statistical rule which states that for a normal distribution, almost all observed data will fall within three standard deviations (denoted by σ) of the mean or average (denoted by µ).
 * Percentiles and Quartiles
   * Percentiles
     * The 30th percentile is the value from the data set greater than 30% of observations, and therefore less than 70% of observations. 
