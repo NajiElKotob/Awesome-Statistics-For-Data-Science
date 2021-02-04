@@ -76,9 +76,6 @@
 * Statistical Tests
   * [Choosing the Correct Statistical Test in SAS, Stata, SPSS and R](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/) - stats.idre.ucla.edu
   * [How to choose the right statistical test?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/) - Barun Nayak and Avijit Hazra1
-* Math
-  * [Mathematics is the queen of Sciences (Video)](https://www.youtube.com/watch?v=8mve0UoSxTo)
-  * [What Is The Fibonacci Sequence?](https://elearningindustry.com/fibonacci-sequence-what-is-and-how-applies-agile-development) - The Fibonacci Sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55… (Xn = Xn-1 + Xn-2)
 * Monte Carlo
   * [Monte Carlo Simulation](https://www.youtube.com/watch?v=OgO1gpXSUzU) - MIT OpenCourseWare
   
@@ -88,6 +85,16 @@
 * Regression
   * [zedstatistics](https://www.youtube.com/watch?v=aq8VU5KLmkY&list=PLTNMv857s9WUI1Nz4SssXDKAELESXz-bi)
 
+-----
+
+### Math
+#### Linear Algebra
+* [Khan Academy - Linear algebra](https://www.khanacademy.org/math/linear-algebra)
+
+#### Extra Knowledge
+* [Mathematics is the queen of Sciences (Video)](https://www.youtube.com/watch?v=8mve0UoSxTo)
+* [What Is The Fibonacci Sequence?](https://elearningindustry.com/fibonacci-sequence-what-is-and-how-applies-agile-development) - The Fibonacci Sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55… (Xn = Xn-1 + Xn-2)
+  
 -----
 
 #### Books
