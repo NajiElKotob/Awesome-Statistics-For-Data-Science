@@ -89,6 +89,8 @@
 
 ### Math
 #### Linear Algebra
+* [Scalars, Vectors and Matrices](https://www.mathsisfun.com/algebra/scalar-vector-matrix.html)
+  * A scalar is a number, like 3, -5, 0.368 | A vector is a list of numbers (can be in a row or column) | A matrix is an array of numbers (one or more rows, one or more columns).
 * [Khan Academy - Linear algebra](https://www.khanacademy.org/math/linear-algebra)
 #### Calculus
 #### Probability theory
