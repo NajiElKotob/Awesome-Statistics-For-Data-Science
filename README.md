@@ -90,6 +90,8 @@
 ### Math
 #### Linear Algebra
 * [Khan Academy - Linear algebra](https://www.khanacademy.org/math/linear-algebra)
+#### Calculus
+#### Probability theory
 
 #### Extra Knowledge
 * [Mathematics is the queen of Sciences (Video)](https://www.youtube.com/watch?v=8mve0UoSxTo)
