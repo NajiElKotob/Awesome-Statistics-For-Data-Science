@@ -78,7 +78,9 @@
   * [How to choose the right statistical test?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/) - Barun Nayak and Avijit Hazra1
 * Monte Carlo
   * [Monte Carlo Simulation](https://www.youtube.com/watch?v=OgO1gpXSUzU) - MIT OpenCourseWare
-  
+* A/B Testing
+* Baye’s Theorem
+
 -----
 
 ### Algorithms 
