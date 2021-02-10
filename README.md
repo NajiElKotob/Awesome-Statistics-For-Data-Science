@@ -90,13 +90,14 @@
 -----
 
 ### Math
+#### Calculus
 #### Linear Algebra
 * [Scalars, Vectors and Matrices](https://www.mathsisfun.com/algebra/scalar-vector-matrix.html)
   * A scalar is a number, like 3, -5, 0.368 | A vector is a list of numbers (can be in a row or column) | A matrix is an array of numbers (one or more rows, one or more columns).
 * [Khan Academy - Linear algebra](https://www.khanacademy.org/math/linear-algebra)
 * [Essential Math for Data Science: Introduction to Matrices and the Matrix Product](https://www.kdnuggets.com/2021/02/essential-math-data-science-matrices-matrix-product.html)
-#### Calculus
-#### Probability theory
+
+#### Optimization Methods
 
 #### Extra Knowledge
 * [Mathematics is the queen of Sciences (Video)](https://www.youtube.com/watch?v=8mve0UoSxTo)
