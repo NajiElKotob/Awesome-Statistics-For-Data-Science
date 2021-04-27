@@ -52,6 +52,7 @@
   * t-Tests
 * Probability
   * P-value
+    * [Meet P. Value (aka p-value)](https://community.alteryx.com/t5/Data-Science/The-Data-Science-Celebrity-Q-amp-A-Meet-P-Value-aka-p-value/ba-p/743016) - Alteryx Community Team
   * [Cheatsheet](https://github.com/wzchen/probability_cheatsheet)
 * Univariate, bivariate, multivariate and multivariate multiple analysis (MMR)
   * [What’s the difference between univariate, bivariate and multivariate descriptive statistics?](https://www.scribbr.com/frequently-asked-questions/univariate-vs-bivariate-vs-multivariate/) - scribbr.com
