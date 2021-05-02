@@ -7,6 +7,7 @@
 * What is data?
 * Data literacy
   * [How to build data literacy in your company](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-build-data-literacy-your-company) - mit.edu
+  * [Boost Your Team’s Data Literacy](https://hbr.org/2020/02/boost-your-teams-data-literacy) - hbr.org
 * Data Types
   * Qualitative vs Quantitative
     * Discrete and Continuou
