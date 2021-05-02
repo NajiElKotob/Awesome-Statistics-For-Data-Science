@@ -5,9 +5,11 @@
 ## Numbers and Statistics
 ### Statistical Analysis
 * What is data?
+* Data literacy
+  * [How to build data literacy in your company](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-build-data-literacy-your-company) - mit.edu
 * Data Types
   * Qualitative vs Quantitative
-    * Discrete and Continuous
+    * Discrete and Continuou
     * Nominal and Ordinal
   * _References_
     * [Types of Data & Measurement Scales: Nominal, Ordinal, Interval and Ratio](https://www.mymarketresearchmethods.com/types-of-data-nominal-ordinal-interval-ratio/) - mymarketresearchmethods.com
