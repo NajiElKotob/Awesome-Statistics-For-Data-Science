@@ -10,7 +10,7 @@
   * [Boost Your Team’s Data Literacy](https://hbr.org/2020/02/boost-your-teams-data-literacy) - hbr.org
 * Data Types
   * Qualitative vs Quantitative
-    * Discrete and Continuou
+    * Discrete and Continous
     * Nominal and Ordinal
   * _References_
     * [Types of Data & Measurement Scales: Nominal, Ordinal, Interval and Ratio](https://www.mymarketresearchmethods.com/types-of-data-nominal-ordinal-interval-ratio/) - mymarketresearchmethods.com
