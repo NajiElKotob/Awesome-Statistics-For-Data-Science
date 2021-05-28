@@ -118,6 +118,7 @@
 * [Pattern Recognition and Machine Learning (Free)](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 * [Mathematics for Machine Learning (Free)](https://mml-book.github.io/)
 * [Analysis of Multiple Dependent Variables](https://www.amazon.com/Analysis-Multiple-Dependent-Variables-Research/dp/0199773599)
+* [Introductory Statistics](https://saylordotorg.github.io/text_introductory-statistics/index.html) - saylordotorg.github.io
 
 #### Tutorials
 * [Praxis Core Math](https://www.khanacademy.org/test-prep/praxis-math/praxis-math-lessons)
