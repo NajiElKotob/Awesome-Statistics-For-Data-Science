@@ -34,6 +34,7 @@
     * Median = 50th percentile
     * 1st Quartile = 25th percentile
     * 3rd Quartile = 75th percentile
+    * IQR = The difference between Q3 and Q1. IQR contains the middle 50% of data
   * [Quartiles](https://www.mathsisfun.com/data/quartiles.html) are the values that divide a list of numbers into quarters - mathsisfun.com
     * Interquartile range =  3rd quartile - 1st quartile
     * Quintile - "A quintile is one of five values that divide a range of data into five equal parts, each being 1/5th (20 percent) of the range." [Investopedia](https://www.investopedia.com/terms/q/quintile.asp)
