@@ -54,6 +54,8 @@
   * [Z-Table](https://z-table.net/) - z-table.net
 * Data Distribution
 * Hypothesis Testing 
+  * Choosing a Statistical Test
+    * [Statistical tests: which one should you use?](https://www.scribbr.com/statistics/statistical-tests) - scribbr.com
 * Comparative Measures 
   * t-Tests
 * Probability
@@ -128,6 +130,8 @@
 * [Mean Opinion Score (MOS)](https://www.twilio.com/docs/glossary/what-is-mean-opinion-score-mos)
 * [Customer Satisfaction Rating (CSAT)](https://blog.hubspot.com/service/customer-satisfaction-score)
 * [Net Promoter Score (NPS)](https://www.twilio.com/docs/glossary/what-is-net-promoter-score)
+
+
 -----
 ### Tools
 * [DrawMyData](http://robertgrantstats.co.uk/drawmydata.html) - a tool for teaching stats and data science by Robert Grant
