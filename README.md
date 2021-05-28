@@ -56,6 +56,7 @@
 * Hypothesis Testing 
   * Choosing a Statistical Test
     * [Statistical tests: which one should you use?](https://www.scribbr.com/statistics/statistical-tests) - scribbr.com
+    * [Choosing the correct statistical test in SAS, Stata, SPSS and R](https://stats.idre.ucla.edu/other/mult-pkg/whatstat) - stats.idre.ucla.edu
 * Comparative Measures 
   * t-Tests
 * Probability
