@@ -20,6 +20,7 @@
   * [Samples & Populations](https://online.stat.psu.edu/stat800/lesson/3/3.1) - stat.psu.edu
   * [Simulated Sampling Distributions](https://shiny.rit.albany.edu/stat/sampdist/) - albany.edu
 * Measures of Central Tendency
+  * [Numerical Summarization](https://online.stat.psu.edu/stat508/lesson/1b/1b.2) - stat.psu.edu
 * Measures of Variability 
   * Range
   * Interquartile Range
