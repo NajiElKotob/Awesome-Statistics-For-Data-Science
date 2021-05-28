@@ -16,6 +16,7 @@
     * [Types of Data & Measurement Scales: Nominal, Ordinal, Interval and Ratio](https://www.mymarketresearchmethods.com/types-of-data-nominal-ordinal-interval-ratio/) - mymarketresearchmethods.com
     * [Types of Variable](https://statistics.laerd.com/statistical-guides/types-of-variable.php) - Laerd.com
 * Population vs. Sample 
+  * [Simulated Sampling Distributions](https://shiny.rit.albany.edu/stat/sampdist/) 
 * Measures of Central Tendency
 * Measures of Variability 
   * Range
