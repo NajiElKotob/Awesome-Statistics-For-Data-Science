@@ -51,16 +51,18 @@
   * _References_
     * [What Do Correlation Coefficients Positive, Negative, and Zero Mean?](https://www.investopedia.com/ask/answers/032515/what-does-it-mean-if-correlation-coefficient-positive-negative-or-zero.asp) - investopedia.com
     * [Correlation vs Causation: Understand the Difference for Your Product](https://blog.amplitude.com/causation-correlation) - amplitude.com
-* Z-Scores
+
+* Data Distribution
+* Inferential Statistic
+  * Hypothesis Testing 
+    * Choosing a Statistical Test
+     * [Statistical tests: which one should you use?](https://www.scribbr.com/statistics/statistical-tests) - scribbr.com
+     * [Choosing the correct statistical test in SAS, Stata, SPSS and R](https://stats.idre.ucla.edu/other/mult-pkg/whatstat) - stats.idre.ucla.edu
+  * t-Test
+  * z-test
+  * Z-Scores
   * Simply put, a z-score (also called a standard score) gives you an idea of how far from the mean a data point is. But more technically it’s a measure of how many standard deviations below or above the population mean a raw score is. [learn more](https://www.statisticshowto.com/probability-and-statistics/z-score/)
   * [Z-Table](https://z-table.net/) - z-table.net
-* Data Distribution
-* Hypothesis Testing 
-  * Choosing a Statistical Test
-    * [Statistical tests: which one should you use?](https://www.scribbr.com/statistics/statistical-tests) - scribbr.com
-    * [Choosing the correct statistical test in SAS, Stata, SPSS and R](https://stats.idre.ucla.edu/other/mult-pkg/whatstat) - stats.idre.ucla.edu
-* Comparative Measures 
-  * t-Tests
 * Probability
   * P-value
     * [Meet P. Value (aka p-value)](https://community.alteryx.com/t5/Data-Science/The-Data-Science-Celebrity-Q-amp-A-Meet-P-Value-aka-p-value/ba-p/743016) - Alteryx Community Team
