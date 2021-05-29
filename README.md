@@ -137,6 +137,7 @@
 
 -----
 ### Tools
+* [Statistics Kingdom](https://www.statskingdom.com/) - statskingdom.com
 * [DrawMyData](http://robertgrantstats.co.uk/drawmydata.html) - a tool for teaching stats and data science by Robert Grant
 * [Desmos - Graphing Calculator](https://www.desmos.com/calculator) - desmos.com
 * [Standard Normal Distribution Table](https://www.mathsisfun.com/data/standard-normal-distribution-table.html) - mathsisfun.com
