@@ -23,7 +23,7 @@
   * [Numerical Summarization](https://online.stat.psu.edu/stat508/lesson/1b/1b.2) - stat.psu.edu
 * Measures of Variability 
   * Range
-  * Interquartile Range
+  * Interquartile Range (IQR)
   * Variance
   * Standard Deviation
     * Standard deviation (S) = square root of the variance
