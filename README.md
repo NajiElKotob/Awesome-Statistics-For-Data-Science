@@ -51,7 +51,6 @@
   * _References_
     * [What Do Correlation Coefficients Positive, Negative, and Zero Mean?](https://www.investopedia.com/ask/answers/032515/what-does-it-mean-if-correlation-coefficient-positive-negative-or-zero.asp) - investopedia.com
     * [Correlation vs Causation: Understand the Difference for Your Product](https://blog.amplitude.com/causation-correlation) - amplitude.com
-
 * Data Distribution
 * Inferential Statistic
   * Hypothesis Testing 
@@ -142,5 +141,5 @@
 * [DrawMyData](http://robertgrantstats.co.uk/drawmydata.html) - a tool for teaching stats and data science by Robert Grant
 * [Desmos - Graphing Calculator](https://www.desmos.com/calculator) - desmos.com
 * [Standard Normal Distribution Table](https://www.mathsisfun.com/data/standard-normal-distribution-table.html) - mathsisfun.com
-
+* [Probability Distribution Applets](https://homepage.divms.uiowa.edu/~mbognar/) - divms.uiowa.edu (Matt Bognar, Ph.D.)
 
