@@ -124,6 +124,7 @@
 * [Mathematics for Machine Learning (Free)](https://mml-book.github.io/)
 * [Analysis of Multiple Dependent Variables](https://www.amazon.com/Analysis-Multiple-Dependent-Variables-Research/dp/0199773599)
 * [Introductory Statistics](https://saylordotorg.github.io/text_introductory-statistics/index.html) - saylordotorg.github.io
+* [Introduction to Statistics](https://courses.lumenlearning.com/odessa-introstats1-1/) - courses.lumenlearning.com
 
 #### Tutorials
 * [Praxis Core Math](https://www.khanacademy.org/test-prep/praxis-math/praxis-math-lessons)
