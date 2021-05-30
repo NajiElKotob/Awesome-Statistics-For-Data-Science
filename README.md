@@ -58,7 +58,7 @@
      * [Choosing the correct statistical test in SAS, Stata, SPSS and R](https://stats.idre.ucla.edu/other/mult-pkg/whatstat) - stats.idre.ucla.edu
   * t-Test
   * z-test
-  * Z-Scores
+    * Z-Scores
   * Simply put, a z-score (also called a standard score) gives you an idea of how far from the mean a data point is. But more technically it’s a measure of how many standard deviations below or above the population mean a raw score is. [learn more](https://www.statisticshowto.com/probability-and-statistics/z-score/)
   * [Z-Table](https://z-table.net/) - z-table.net
 * Probability
