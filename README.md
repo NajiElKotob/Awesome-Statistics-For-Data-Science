@@ -39,6 +39,8 @@
     * Interquartile range =  3rd quartile - 1st quartile
     * Quintile - "A quintile is one of five values that divide a range of data into five equal parts, each being 1/5th (20 percent) of the range." [Investopedia](https://www.investopedia.com/terms/q/quintile.asp)
     * Decile - Devide a range of data into ten equal parts, each being 1/10th (10 percent) of the range. 1st and 9th deciles equal to 10th and 90th percentiles.
+  * Outliers
+    * [Identifying outliers with the 1.5xIQR rule](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/a/identifying-outliers-iqr-rule) - khanacademy.org
 * Binning
   * [Freedman–Diaconis rule](https://en.wikipedia.org/wiki/Freedman%E2%80%93Diaconis_rule)
 * Measures of Association
