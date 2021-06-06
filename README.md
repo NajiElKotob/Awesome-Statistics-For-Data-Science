@@ -56,6 +56,8 @@
     * [What Is Covariance?](https://www.investopedia.com/terms/c/covariance.asp) - investopedia.com
 * Data Distribution
 * Inferential Statistic
+  * Null Hypothesis
+    * The null hypothesis, H0 is the commonly accepted fact; it is the opposite of the alternate hypothesis. Researchers work to reject, nullify or disprove the null hypothesis. Researchers come up with an alternate hypothesis, one that they think explains a phenomenon, and then work to reject the null hypothesis. [learn more](https://www.statisticshowto.com/probability-and-statistics/null-hypothesis/)
   * Hypothesis Testing 
     * Choosing a Statistical Test
      * [Statistical tests: which one should you use?](https://www.scribbr.com/statistics/statistical-tests) - scribbr.com
@@ -72,6 +74,8 @@
   * P-value ⬆⬇
     * [Meet P. Value (aka p-value)](https://community.alteryx.com/t5/Data-Science/The-Data-Science-Celebrity-Q-amp-A-Meet-P-Value-aka-p-value/ba-p/743016) - Alteryx Community Team
     * [P-Values, clearly explained (Video)](https://www.youtube.com/watch?v=5Z9OIYA8He8) - StatQuest
+    * In general, P values larger than 0.01 should be reported to two decimal places, those between 0.01 and 0.001 to three decimal places; P values smaller than 0.001 should be reported as P<0.001. [learn more](https://www.graphpad.com/support/faq/how-to-report-p-values-in-journals/)
+    * A p-value less than 0.05 (typically ≤ 0.05) is statistically significant. It indicates strong evidence against the null hypothesis, as there is less than a 5% probability the null is correct (and the results are random). Therefore, we reject the null hypothesis, and accept the alternative hypothesis. [learn more](https://www.simplypsychology.org/p-value.html)
   * [Cheatsheet](https://github.com/wzchen/probability_cheatsheet)
 * Univariate, bivariate, multivariate and multivariate multiple analysis (MMR)
   * [What’s the difference between univariate, bivariate and multivariate descriptive statistics?](https://www.scribbr.com/frequently-asked-questions/univariate-vs-bivariate-vs-multivariate/) - scribbr.com
