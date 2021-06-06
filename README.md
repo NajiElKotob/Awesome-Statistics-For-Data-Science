@@ -147,6 +147,9 @@
 * [Stephanie Glen](https://www.youtube.com/channel/UCs3IhN8VOA_5WxpAgbSmFkg) - statisticshowto.com
 * [Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566) - The average, Descriptive statistics, Probability and Statistics
 
+-----
+
+### KPIs
 #### Rating
 * [Absolute Category Rating (ACR)](https://en.wikipedia.org/wiki/Absolute_Category_Rating)
 * [Mean Opinion Score (MOS)](https://www.twilio.com/docs/glossary/what-is-mean-opinion-score-mos)
