@@ -143,7 +143,8 @@
 #### YouTube :tv:
 * [Joshua Emmanuel](https://www.youtube.com/c/profjoshemman)
 * [zedstatistics](https://www.youtube.com/channel/UC6AVa0vSrCpuskzGDDKz_EQ)
-
+* [Dr Nic's Maths and Stats](https://www.youtube.com/channel/UCG32MfGLit1pcqCRXyy9cAg)
+* [Stephanie Glen](https://www.youtube.com/channel/UCs3IhN8VOA_5WxpAgbSmFkg) - statisticshowto.com
 
 #### Rating
 * [Absolute Category Rating (ACR)](https://en.wikipedia.org/wiki/Absolute_Category_Rating)
