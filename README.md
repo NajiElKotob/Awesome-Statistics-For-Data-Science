@@ -157,6 +157,9 @@
 * [Customer Satisfaction Rating (CSAT)](https://blog.hubspot.com/service/customer-satisfaction-score)
 * [Net Promoter Score (NPS)](https://www.twilio.com/docs/glossary/what-is-net-promoter-score)
 
+#### HR
+* [51 HR Metrics Cheat Sheet](https://www.aihr.com/resources/AIHR_HR_Metrics_Cheat_sheet.pdf) - aihr.com
+
 
 -----
 ### Tools
