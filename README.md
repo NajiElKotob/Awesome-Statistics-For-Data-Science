@@ -138,9 +138,6 @@
 * [Introductory Statistics](https://saylordotorg.github.io/text_introductory-statistics/index.html) - saylordotorg.github.io
 * [Introduction to Statistics](https://courses.lumenlearning.com/odessa-introstats1-1/) - courses.lumenlearning.com
 
-#### Tutorials
-* [Praxis Core Math](https://www.khanacademy.org/test-prep/praxis-math/praxis-math-lessons)
-
 #### YouTube :tv:
 * [Joshua Emmanuel](https://www.youtube.com/c/profjoshemman)
 * [zedstatistics](https://www.youtube.com/channel/UC6AVa0vSrCpuskzGDDKz_EQ)
@@ -148,18 +145,8 @@
 * [Stephanie Glen](https://www.youtube.com/channel/UCs3IhN8VOA_5WxpAgbSmFkg) - statisticshowto.com
 * [Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566) - The average, Descriptive statistics, Probability and Statistics
 
------
-
-### KPIs
-#### Rating
-* [Absolute Category Rating (ACR)](https://en.wikipedia.org/wiki/Absolute_Category_Rating)
-* [Mean Opinion Score (MOS)](https://www.twilio.com/docs/glossary/what-is-mean-opinion-score-mos)
-* [Customer Satisfaction Rating (CSAT)](https://blog.hubspot.com/service/customer-satisfaction-score)
-* [Net Promoter Score (NPS)](https://www.twilio.com/docs/glossary/what-is-net-promoter-score)
-
-#### HR
-* [51 HR Metrics Cheat Sheet](https://www.aihr.com/resources/AIHR_HR_Metrics_Cheat_sheet.pdf) - aihr.com
-
+#### Tutorials
+* [Praxis Core Math](https://www.khanacademy.org/test-prep/praxis-math/praxis-math-lessons)
 
 -----
 ### Tools
@@ -169,3 +156,8 @@
 * [Standard Normal Distribution Table](https://www.mathsisfun.com/data/standard-normal-distribution-table.html) - mathsisfun.com
 * [Probability Distribution Applets](https://homepage.divms.uiowa.edu/~mbognar/) - divms.uiowa.edu (Matt Bognar, Ph.D.)
 
+
+-----
+## References
+### KPIs
+* [Awesome KPIs](https://github.com/NajiElKotob/Awesome-KPIs)
