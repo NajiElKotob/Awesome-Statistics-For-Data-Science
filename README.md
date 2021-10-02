@@ -1,6 +1,6 @@
 # Awesome Statistics for Data Science
 
-{Work in Process... Stay Tuned}
+{Awesome Works in Progress}
 
 ## Numbers and Statistics
 ### Statistical Analysis
@@ -86,7 +86,6 @@
   * [What is a multivariate relationship?](https://treehozz.com/what-is-a-multivariate-relationship)
 * Upsampling and Downsampling  
 -----
-
 ### Other Topics
 * Equations and Functions
   * [The Distributive Property (Video)](https://www.youtube.com/watch?v=v-6MShC82ow) - Algebra Basics: The Distributive Property - Math Antics
@@ -109,6 +108,11 @@
   * [Monte Carlo Simulation](https://www.youtube.com/watch?v=OgO1gpXSUzU) - MIT OpenCourseWare
 * A/B Testing
 * Baye’s Theorem
+
+-----
+### Write-Up
+* [Analytical Report – What Is It and How to Write It?](https://whatagraph.com/blog/articles/analytical-report) - whatagraph.com
+
 
 -----
 ### Surveys
