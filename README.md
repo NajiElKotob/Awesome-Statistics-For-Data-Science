@@ -151,6 +151,7 @@
 * [Introduction to Statistics](https://courses.lumenlearning.com/odessa-introstats1-1/) - courses.lumenlearning.com
 
 #### YouTube :tv:
+* [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0) - MIT OpenCourseWare
 * [Joshua Emmanuel](https://www.youtube.com/c/profjoshemman)
 * [zedstatistics](https://www.youtube.com/channel/UC6AVa0vSrCpuskzGDDKz_EQ)
 * [Dr Nic's Maths and Stats](https://www.youtube.com/channel/UCG32MfGLit1pcqCRXyy9cAg)
