@@ -159,8 +159,9 @@
 * [Stephanie Glen](https://www.youtube.com/channel/UCs3IhN8VOA_5WxpAgbSmFkg) - statisticshowto.com
 * [Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566) - The average, Descriptive statistics, Probability and Statistics
 
-#### Tutorials
+#### Learning
 * [Praxis Core Math](https://www.khanacademy.org/test-prep/praxis-math/praxis-math-lessons)
+* [Data Science for Beginners (Microsoft)](https://github.com/microsoft/Data-Science-For-Beginners)
 
 -----
 ### Tools
