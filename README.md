@@ -2,8 +2,7 @@
 
 {Awesome Works in Progress}
 
-## Numbers and Statistics
-### Statistical Analysis
+## Let's Talk Data
 * What is data?
   * [What is Data](https://online.stat.psu.edu/stat508/lesson/1b/1b.1) - Data represent facts or something that has actually taken place, observed and measured. 
     * Data > (beats) Opinion
@@ -18,6 +17,11 @@
   * _References_
     * [Types of Data & Measurement Scales: Nominal, Ordinal, Interval and Ratio](https://www.mymarketresearchmethods.com/types-of-data-nominal-ordinal-interval-ratio/) - mymarketresearchmethods.com
     * [Types of Variable](https://statistics.laerd.com/statistical-guides/types-of-variable.php) - Laerd.com
+-----
+
+
+## Numbers and Statistics
+### Statistical Analysis
 * Population vs. Sample 
   * [Samples & Populations](https://online.stat.psu.edu/stat800/lesson/3/3.1) - stat.psu.edu
   * [Simulated Sampling Distributions](https://shiny.rit.albany.edu/stat/sampdist/) - albany.edu
