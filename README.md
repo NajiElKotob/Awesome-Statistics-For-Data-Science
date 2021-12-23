@@ -11,9 +11,10 @@
   * [Boost Your Team’s Data Literacy](https://hbr.org/2020/02/boost-your-teams-data-literacy) - hbr.org
   * [Data Analytics vs Data Analysis](https://www.bmc.com/blogs/data-analytics-vs-data-analysis/) - bmc.com
 * Data Types
-  * Qualitative vs Quantitative
-    * Discrete and Continous
-    * Nominal and Ordinal
+  * Qualitative
+    * Nominal, Ordinal, Binary
+  * Quantitative
+    * Discrete, Continous
   * _References_
     * [Types of Data & Measurement Scales: Nominal, Ordinal, Interval and Ratio](https://www.mymarketresearchmethods.com/types-of-data-nominal-ordinal-interval-ratio/) - mymarketresearchmethods.com
     * [Types of Variable](https://statistics.laerd.com/statistical-guides/types-of-variable.php) - Laerd.com
