@@ -64,8 +64,8 @@
   * Outliers
     * [Identifying outliers with the 1.5xIQR rule](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/a/identifying-outliers-iqr-rule) - khanacademy.org
 * Percentage
- * [Percentage Difference, Percentage Error, Percentage Change](https://www.mathsisfun.com/data/percentage-difference-vs-error.html) - mathsisfun.com
- * [Percentage Change and Percent Difference](http://sumn.org/downloads/Percentage_Change.pdf) - sumn.org
+  * [Percentage Difference, Percentage Error, Percentage Change](https://www.mathsisfun.com/data/percentage-difference-vs-error.html) - mathsisfun.com
+  * [Percentage Change and Percent Difference](http://sumn.org/downloads/Percentage_Change.pdf) - sumn.org
 * Binning
   * [Freedman–Diaconis rule](https://en.wikipedia.org/wiki/Freedman%E2%80%93Diaconis_rule)
 * Measures of Association
