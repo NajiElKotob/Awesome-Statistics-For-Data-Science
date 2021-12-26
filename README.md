@@ -24,11 +24,11 @@
 
 ## Numbers and Statistics
 ### Statistical Analysis
-* Population vs. Sample 
-  * [Samples & Populations](https://online.stat.psu.edu/stat800/lesson/3/3.1) - stat.psu.edu
-  * [Simulated Sampling Distributions](https://shiny.rit.albany.edu/stat/sampdist/) - albany.edu
-  * Sample Size
-    * [Sample Size Calculator](https://www.calculator.net/sample-size-calculator.html) - calculator.net
+#### Samples and Populations
+* [Samples & Populations](https://online.stat.psu.edu/stat800/lesson/3/3.1) - stat.psu.edu
+* [Simulated Sampling Distributions](https://shiny.rit.albany.edu/stat/sampdist/) - albany.edu
+* Sample Size
+  * [Sample Size Calculator](https://www.calculator.net/sample-size-calculator.html) - calculator.net
 
 #### Descriptive Statistics
 * Measures of Central Tendency
