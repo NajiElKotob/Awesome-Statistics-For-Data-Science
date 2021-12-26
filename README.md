@@ -68,6 +68,7 @@
   * [Percentage Change and Percent Difference](http://sumn.org/downloads/Percentage_Change.pdf) - sumn.org
 * Binning
   * [Freedman–Diaconis rule](https://en.wikipedia.org/wiki/Freedman%E2%80%93Diaconis_rule)
+  * Sturge’s rule
 * Measures of Association
   * Correlation and Causation
     * [Correlation vs Causation: Understand the Difference for Your Product](https://blog.amplitude.com/causation-correlation) - amplitude.com
