@@ -29,6 +29,8 @@
 * [Simulated Sampling Distributions](https://shiny.rit.albany.edu/stat/sampdist/) - albany.edu
 * Sample Size
   * [Sample Size Calculator](https://www.calculator.net/sample-size-calculator.html) - calculator.net
+* [Law Of Large Numbers](https://www.investopedia.com/terms/l/lawoflargenumbers.asp) - investopedia.com | The law of large numbers, in probability and statistics, states that as a sample size grows, its mean gets closer to the average of the whole population. 
+
 
 #### Descriptive Statistics
 * Measures of Central Tendency
