@@ -26,7 +26,6 @@
 ### Statistical Analysis
 #### Samples and Populations
 * [Samples & Populations](https://online.stat.psu.edu/stat800/lesson/3/3.1) - stat.psu.edu
-* [Simulated Sampling Distributions](https://shiny.rit.albany.edu/stat/sampdist/) - albany.edu
 * Sample Size
   * [Sample Size Calculator](https://www.calculator.net/sample-size-calculator.html) - calculator.net
   * A general rule of thumb for the Large Enough Sample Condition is that n≥30, where n is your sample size. [Learn more](https://www.statisticshowto.com/large-enough-sample-condition/) - statisticshowto.com
@@ -196,7 +195,8 @@
 * [Desmos - Graphing Calculator](https://www.desmos.com/calculator) - desmos.com
 * [Standard Normal Distribution Table](https://www.mathsisfun.com/data/standard-normal-distribution-table.html) - mathsisfun.com
 * [Probability Distribution Applets](https://homepage.divms.uiowa.edu/~mbognar/) - divms.uiowa.edu (Matt Bognar, Ph.D.)
-
+* [Simulated Sampling Distributions](https://shiny.rit.albany.edu/stat/sampdist/) :star: - albany.edu
+* [One Sample T-Test Calculator](https://www.statskingdom.com/130MeanT1.html) - statskingdom.com
 
 -----
 ## References
