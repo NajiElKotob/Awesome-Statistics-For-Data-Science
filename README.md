@@ -81,6 +81,8 @@
 * Data Distribution
 * [Normalization vs Standardization](https://towardsdatascience.com/normalization-vs-standardization-cb8fe15082eb)
 #### Inferential Statistic
+##### Hypothesis
+* Hypothesis tests attempt to provide an answer to questions such as "How likely is an observation just random change?"
 * Null Hypothesis
   * The null hypothesis, H0 is the commonly accepted fact; it is the opposite of the alternate hypothesis. Researchers work to reject, nullify or disprove the null hypothesis. Researchers come up with an alternate hypothesis, one that they think explains a phenomenon, and then work to reject the null hypothesis. [learn more](https://www.statisticshowto.com/probability-and-statistics/null-hypothesis/)
 * Hypothesis Testing 
