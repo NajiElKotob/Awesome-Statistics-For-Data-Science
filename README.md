@@ -89,7 +89,7 @@
     * [Choosing the correct statistical test in SAS, Stata, SPSS and R](https://stats.idre.ucla.edu/other/mult-pkg/whatstat) - stats.idre.ucla.edu
 * Confidence Intervals
 * Confidence Level
-* Alpha value
+* Alpha value (aka significance level)
 * t-test
 * z-test
   * Z-Scores
