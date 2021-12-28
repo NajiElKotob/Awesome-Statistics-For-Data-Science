@@ -31,7 +31,8 @@
   * A general rule of thumb for the Large Enough Sample Condition is that n≥30, where n is your sample size. [Learn more](https://www.statisticshowto.com/large-enough-sample-condition/) - statisticshowto.com
   * Number of Samples (You can Afford) = Budget / Cost per Sample
 * [Law Of Large Numbers](https://www.investopedia.com/terms/l/lawoflargenumbers.asp) - investopedia.com | The law of large numbers, in probability and statistics, states that as a sample size grows, its mean gets closer to the average of the whole population. 
-
+* Confidence Intervals
+  * [Confidence intervals explained](https://www.scribbr.com/statistics/confidence-interval/) - scribbr.com
 
 #### Descriptive Statistics
 * [Central Limit Theorem (CLT)](https://www.investopedia.com/terms/c/central_limit_theorem.asp) - investopedia.com | In probability theory, the central limit theorem (CLT) states that the distribution of a sample variable approximates a normal distribution (i.e., a “bell curve”) as the sample size becomes larger, assuming that all samples are identical in size, and regardless of the population's actual distribution shape.
