@@ -10,6 +10,7 @@
   * [How to build data literacy in your company](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-build-data-literacy-your-company) - mit.edu
   * [Boost Your Team’s Data Literacy](https://hbr.org/2020/02/boost-your-teams-data-literacy) - hbr.org
   * [Data Analytics vs Data Analysis](https://www.bmc.com/blogs/data-analytics-vs-data-analysis/) - bmc.com
+  * [Data literacy training](https://www.statcan.gc.ca/en/wtc/data-literacy) - statcan.gc.ca
 * Data Types
   * Qualitative
     * Nominal, Ordinal, Binary
