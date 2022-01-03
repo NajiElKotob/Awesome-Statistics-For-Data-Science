@@ -81,6 +81,9 @@
     * [What Is Covariance?](https://www.investopedia.com/terms/c/covariance.asp) - investopedia.com
 * Data Distribution
 * [Normalization vs Standardization](https://towardsdatascience.com/normalization-vs-standardization-cb8fe15082eb)
+
+-----
+
 #### Inferential Statistic
 ##### Hypothesis
 * Hypothesis tests attempt to provide an answer to questions such as "How likely is an observation just random change?"
@@ -93,6 +96,7 @@
 * Confidence Intervals
 * Confidence Level
 * Alpha value (aka significance level)
+* [Type I and Type II errors](https://www.scribbr.com/statistics/type-i-and-type-ii-errors/) - scribbr.com
 * t-test
 * z-test
   * Z-Scores
@@ -114,6 +118,8 @@
   * [What’s the difference between univariate, bivariate and multivariate descriptive statistics?](https://www.scribbr.com/frequently-asked-questions/univariate-vs-bivariate-vs-multivariate/) - scribbr.com
   * [What is a multivariate relationship?](https://treehozz.com/what-is-a-multivariate-relationship)
 * Upsampling and Downsampling  
+
+
 -----
 ### Other Topics
 * Equations and Functions
