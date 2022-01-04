@@ -31,6 +31,7 @@
   * [Sample Size Calculator](https://www.calculator.net/sample-size-calculator.html) - calculator.net
   * A general rule of thumb for the Large Enough Sample Condition is that n≥30, where n is your sample size. [Learn more](https://www.statisticshowto.com/large-enough-sample-condition/) - statisticshowto.com
   * Number of Samples (You can Afford) = Budget / Cost per Sample
+  * Power Analysis
 * [Law Of Large Numbers](https://www.investopedia.com/terms/l/lawoflargenumbers.asp) - investopedia.com | The law of large numbers, in probability and statistics, states that as a sample size grows, its mean gets closer to the average of the whole population. 
 * Confidence Intervals
   * [Confidence intervals explained](https://www.scribbr.com/statistics/confidence-interval/) - scribbr.com
