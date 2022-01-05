@@ -211,7 +211,7 @@
 * [Probability Distribution Applets](https://homepage.divms.uiowa.edu/~mbognar/) - divms.uiowa.edu (Matt Bognar, Ph.D.)
 * [Simulated Sampling Distributions](https://shiny.rit.albany.edu/stat/sampdist/) :star: - albany.edu
 * [One Sample T-Test Calculator](https://www.statskingdom.com/130MeanT1.html) - statskingdom.com
-
+* [Comparing Two Independent Samples (Sample Size)](https://www.stat.ubc.ca/~rollin/stats/ssize/n2.html) - stat.ubc.ca
 -----
 ## References
 ### KPIs
