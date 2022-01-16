@@ -180,6 +180,8 @@
 #### Vidoes :tv:
 * [How Imaginary Numbers Were Invented](https://www.youtube.com/watch?v=cUzklzVXJwo)
 
+#### Textbooks
+* [Mathspace](https://mathspace.co/textbooks/syllabuses/select) - mathspace.co | We bring all of your learning tools together in one place, from video lessons, textbooks, to adaptive practice. Encourage your students to become self-directed learners.
 
 -----
 
