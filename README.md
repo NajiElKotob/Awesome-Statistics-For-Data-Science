@@ -27,6 +27,7 @@
 ### Statistical Analysis
 #### Samples and Populations
 * [Samples & Populations](https://online.stat.psu.edu/stat800/lesson/3/3.1) - stat.psu.edu
+* Types of Sampling
 * Sample Size
   * [Sample Size Calculator](https://www.calculator.net/sample-size-calculator.html) - calculator.net
   * A general rule of thumb for the Large Enough Sample Condition is that n≥30, where n is your sample size. [Learn more](https://www.statisticshowto.com/large-enough-sample-condition/) - statisticshowto.com
@@ -36,6 +37,9 @@
 * Confidence Intervals
   * [Confidence intervals explained](https://www.scribbr.com/statistics/confidence-interval/) - scribbr.com
   * [Understanding Confidence Intervals :tv:](https://www.youtube.com/watch?v=tFWsuO9f74o) - Dr Nic's Maths and Stats
+* Data Bias
+
+
 #### Descriptive Statistics
 * [Central Limit Theorem (CLT)](https://www.investopedia.com/terms/c/central_limit_theorem.asp) - investopedia.com | In probability theory, the central limit theorem (CLT) states that the distribution of a sample variable approximates a normal distribution (i.e., a “bell curve”) as the sample size becomes larger, assuming that all samples are identical in size, and regardless of the population's actual distribution shape.
 * Measures of Central Tendency
