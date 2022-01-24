@@ -124,6 +124,8 @@
   * [What is a multivariate relationship?](https://treehozz.com/what-is-a-multivariate-relationship)
 * Upsampling and Downsampling  
 
+##### Error Estimatinos
+##### Effect Size
 
 -----
 ### Other Topics
