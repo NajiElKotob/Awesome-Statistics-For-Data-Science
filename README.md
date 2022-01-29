@@ -20,6 +20,8 @@
     * [Types of Data & Measurement Scales: Nominal, Ordinal, Interval and Ratio](https://www.mymarketresearchmethods.com/types-of-data-nominal-ordinal-interval-ratio/) - mymarketresearchmethods.com
     * [Types of Variable](https://statistics.laerd.com/statistical-guides/types-of-variable.php) - Laerd.com
     * Interval scale Vs Ratio scale: Interval scales hold no true zero and can represent values below zero e.g., you can measure temperature below 0 degrees Celsius, such as -10 degrees.; Ratio variables never fall below zero. Height and weight measure from 0 and above, but never fall below it.
+    * Foot Size vs Shoe Size
+    * Is Age Discrete or Continuous? 
 -----
 
 
