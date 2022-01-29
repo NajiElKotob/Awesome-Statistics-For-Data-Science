@@ -47,7 +47,11 @@
 `Describe, show or summarize data in a meaningful way`
 * [Central Limit Theorem (CLT)](https://www.investopedia.com/terms/c/central_limit_theorem.asp) - investopedia.com | In probability theory, the central limit theorem (CLT) states that the distribution of a sample variable approximates a normal distribution (i.e., a “bell curve”) as the sample size becomes larger, assuming that all samples are identical in size, and regardless of the population's actual distribution shape.
 * Measures of Central Tendency - are single values that attempt to describe the central position of a set of data.
+  * Mean - Most meaningful with normally distributed data
+  * Median - Diminish the effect of outliers
+  * Mode - bi-modal distribution; categorical data
   * [Numerical Summarization](https://online.stat.psu.edu/stat508/lesson/1b/1b.2) - stat.psu.edu
+  * Sensitivity to skewness
 * Measures of Variability (Dispersion)
   * Range
   * Interquartile Range (IQR)
