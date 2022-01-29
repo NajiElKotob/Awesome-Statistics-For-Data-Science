@@ -48,7 +48,7 @@
 * [Central Limit Theorem (CLT)](https://www.investopedia.com/terms/c/central_limit_theorem.asp) - investopedia.com | In probability theory, the central limit theorem (CLT) states that the distribution of a sample variable approximates a normal distribution (i.e., a “bell curve”) as the sample size becomes larger, assuming that all samples are identical in size, and regardless of the population's actual distribution shape.
 * Measures of Central Tendency
   * [Numerical Summarization](https://online.stat.psu.edu/stat508/lesson/1b/1b.2) - stat.psu.edu
-* Measures of Variability (Dipersion)
+* Measures of Variability (Dispersion)
   * Range
   * Interquartile Range (IQR)
   * Variance
@@ -88,7 +88,6 @@
     * [What Do Correlation Coefficients Positive, Negative, and Zero Mean?](https://www.investopedia.com/ask/answers/032515/what-does-it-mean-if-correlation-coefficient-positive-negative-or-zero.asp) - investopedia.com 
   * Covariance
     * [What Is Covariance?](https://www.investopedia.com/terms/c/covariance.asp) - investopedia.com
-* Data Distribution
 * [Normalization vs Standardization](https://towardsdatascience.com/normalization-vs-standardization-cb8fe15082eb)
 
 -----
