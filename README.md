@@ -44,6 +44,7 @@
 
 
 #### Descriptive Statistics
+`Describe, show or summarize data in a meaningful way`
 * [Central Limit Theorem (CLT)](https://www.investopedia.com/terms/c/central_limit_theorem.asp) - investopedia.com | In probability theory, the central limit theorem (CLT) states that the distribution of a sample variable approximates a normal distribution (i.e., a “bell curve”) as the sample size becomes larger, assuming that all samples are identical in size, and regardless of the population's actual distribution shape.
 * Measures of Central Tendency
   * [Numerical Summarization](https://online.stat.psu.edu/stat508/lesson/1b/1b.2) - stat.psu.edu
