@@ -55,8 +55,8 @@
 * Measures of Variability (Dispersion)
   * Range
   * Interquartile Range (IQR)
-  * Variance
-  * Standard Deviation
+  * Variance σ2
+  * Standard Deviation σ
     * Standard deviation (S) = square root of the variance
 * Shapes of Distribution
   * Normal Distribution
