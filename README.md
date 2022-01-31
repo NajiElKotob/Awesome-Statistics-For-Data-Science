@@ -24,6 +24,11 @@
     * Is Age Discrete or Continuous? 
 -----
 
+## Data Bias
+* Selection bias
+* [Berkson’s Bias](https://www.statology.org/berksons-bias/) - statology.org
+* Historical Bias
+* Outlier Bias
 
 ## Numbers and Statistics
 ### Statistical Analysis
@@ -40,8 +45,6 @@
 * Confidence Intervals
   * [Confidence intervals explained](https://www.scribbr.com/statistics/confidence-interval/) - scribbr.com
   * [Understanding Confidence Intervals :tv:](https://www.youtube.com/watch?v=tFWsuO9f74o) - Dr Nic's Maths and Stats
-* Data Bias
-  * [Berkson’s Bias](https://www.statology.org/berksons-bias/) - statology.org
 
 
 #### Descriptive Statistics
