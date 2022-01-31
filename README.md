@@ -63,6 +63,8 @@
     * The [empirical rule](https://www.investopedia.com/terms/e/empirical-rule.asp), also referred to as the three-sigma rule or [68-95-99.7 rule](https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule), is a statistical rule which states that for a normal (aka Gaussian or Gauss or Laplace–Gauss) distribution, almost all observed data will fall within three standard deviations (denoted by σ) of the mean or average (denoted by µ).
   * Non-normal Distribution (Flat, Bi-modal, Parabolic)
   * Skewness (-ve Skewness/Skewed Left, +ve Skewness/Skewed Right)
+    - When data are skewed right, the mean is larger than the median. 
+    - When data are skewed left, the mean is smaller than the median.
   * Kurtosis (Leptokurtic, Mesokurtic, Platykurtic)
 * Percentiles and Quartiles
   * Percentiles
