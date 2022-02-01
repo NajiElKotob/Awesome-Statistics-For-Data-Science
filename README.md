@@ -107,6 +107,7 @@
 * Hypothesis tests attempt to provide an answer to questions such as "How likely is an observation just random change?"
 * Null Hypothesis
   * The null hypothesis, H0 is the commonly accepted fact; it is the opposite of the alternate hypothesis. Researchers work to reject, nullify or disprove the null hypothesis. Researchers come up with an alternate hypothesis, one that they think explains a phenomenon, and then work to reject the null hypothesis. [learn more](https://www.statisticshowto.com/probability-and-statistics/null-hypothesis/)
+  * The null statement must always contain some form of equality (=, ≤ or ≥) Always write the alternative hypothesis, typically denoted with Ha or H1, using less than, greater than, or not equals symbols, i.e., (≠, >, or <) [learn more](https://opentextbc.ca/introstatopenstax/chapter/null-and-alternative-hypotheses/)
 * Hypothesis Testing 
   * Choosing a Statistical Test
     * [Statistical tests: which one should you use?](https://www.scribbr.com/statistics/statistical-tests) - scribbr.com
