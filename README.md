@@ -108,10 +108,6 @@
 * Null Hypothesis
   * The null hypothesis, H0 is the commonly accepted fact; it is the opposite of the alternate hypothesis. Researchers work to reject, nullify or disprove the null hypothesis. Researchers come up with an alternate hypothesis, one that they think explains a phenomenon, and then work to reject the null hypothesis. [learn more](https://www.statisticshowto.com/probability-and-statistics/null-hypothesis/)
   * The null statement must always contain some form of equality (=, ≤ or ≥) Always write the alternative hypothesis, typically denoted with Ha or H1, using less than, greater than, or not equals symbols, i.e., (≠, >, or <) [learn more](https://opentextbc.ca/introstatopenstax/chapter/null-and-alternative-hypotheses/)
-* Hypothesis Testing 
-  * Choosing a Statistical Test
-    * [Statistical tests: which one should you use?](https://www.scribbr.com/statistics/statistical-tests) - scribbr.com
-    * [Choosing the correct statistical test in SAS, Stata, SPSS and R](https://stats.idre.ucla.edu/other/mult-pkg/whatstat) - stats.idre.ucla.edu
 * Confidence Intervals
 * Confidence Level
 * Alpha value (aka significance level)
@@ -137,7 +133,10 @@
   * [What’s the difference between univariate, bivariate and multivariate descriptive statistics?](https://www.scribbr.com/frequently-asked-questions/univariate-vs-bivariate-vs-multivariate/) - scribbr.com
   * [What is a multivariate relationship?](https://treehozz.com/what-is-a-multivariate-relationship)
 * Upsampling and Downsampling  
-
+##### Statisticsl Tests
+* [Statistical tests: which one should you use?](https://www.scribbr.com/statistics/statistical-tests) - scribbr.com
+* [Choosing the correct statistical test in SAS, Stata, SPSS and R](https://stats.idre.ucla.edu/other/mult-pkg/whatstat) - stats.idre.ucla.edu
+* [How to choose the right statistical test?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/) - Barun Nayak and Avijit Hazra1
 ##### Error Estimatinos
 ##### Effect Size
 
@@ -157,9 +156,6 @@
 * APA
   * [Numbers & Statistics](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/apa_numbers_statistics.html) - APA Formatting And Style Guide (7th Edition)
   * [Reporting a multiple linear regression in APA](https://www2.slideshare.net/plummer48/reporting-a-multiple-linear-regression-in-apa)
-* Statistical Tests
-  * [Choosing the Correct Statistical Test in SAS, Stata, SPSS and R](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/) - stats.idre.ucla.edu
-  * [How to choose the right statistical test?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/) - Barun Nayak and Avijit Hazra1
 * Monte Carlo
   * [Monte Carlo Simulation](https://www.youtube.com/watch?v=OgO1gpXSUzU) - MIT OpenCourseWare
 * A/B Testing
