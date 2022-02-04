@@ -113,7 +113,6 @@
 * Alpha value (aka significance level)
 * [Type I and Type II errors](https://www.scribbr.com/statistics/type-i-and-type-ii-errors/) - scribbr.com
   * Which is more dangerous for a smoke detector? A type I (false positive) or type II error (false negative)? 
-  * 
 * t-test
 * z-test
   * Z-Scores
@@ -141,6 +140,7 @@
 * [How to choose the right statistical test?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/) - Barun Nayak and Avijit Hazra1
 ##### Error Estimatinos
 ##### Effect Size
+* Cohen's d is designed for comparing two groups. It takes the difference between two means and expresses it in standard deviation units. It tells you how many standard deviations lie between the two means [learn more](https://www.scribbr.com/statistics/effect-size/)
 
 -----
 ### Other Topics
