@@ -112,6 +112,8 @@
 * Confidence Level
 * Alpha value (aka significance level)
 * [Type I and Type II errors](https://www.scribbr.com/statistics/type-i-and-type-ii-errors/) - scribbr.com
+  * Which is more dangerous for a smoke detector? A type I (false positive) or type II error (false negative)? 
+  * 
 * t-test
 * z-test
   * Z-Scores
