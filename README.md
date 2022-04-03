@@ -62,6 +62,7 @@
   * Variance σ2
   * Standard Deviation σ
     * Standard deviation (S) = square root of the variance
+  * [Standard Error](https://corporatefinanceinstitute.com/resources/knowledge/other/standard-error/) | A mathematical tool used in statistics to measure variability
 * Shapes of Distribution
   * Normal Distribution
     * The [empirical rule](https://www.investopedia.com/terms/e/empirical-rule.asp), also referred to as the three-sigma rule or [68-95-99.7 rule](https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule), is a statistical rule which states that for a normal (aka Gaussian or Gauss or Laplace–Gauss) distribution, almost all observed data will fall within three standard deviations (denoted by σ) of the mean or average (denoted by µ).
