@@ -237,6 +237,5 @@
 * [One Sample T-Test Calculator](https://www.statskingdom.com/130MeanT1.html) - statskingdom.com
 * [Comparing Two Independent Samples (Sample Size)](https://www.stat.ubc.ca/~rollin/stats/ssize/n2.html) :star: - stat.ubc.ca
 -----
-## References
-### KPIs
-* [Awesome KPIs](https://github.com/NajiElKotob/Awesome-KPIs)
+## Related Topics
+* [KPIs](https://github.com/NajiElKotob/Awesome-KPIs) - Awesome KPIs
