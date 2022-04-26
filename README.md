@@ -178,8 +178,9 @@
 -----
 
 ### Algorithms 
-* Regression
-  * [zedstatistics](https://www.youtube.com/watch?v=aq8VU5KLmkY&list=PLTNMv857s9WUI1Nz4SssXDKAELESXz-bi)
+#### Regression
+* [zedstatistics :tv:](https://www.youtube.com/watch?v=aq8VU5KLmkY&list=PLTNMv857s9WUI1Nz4SssXDKAELESXz-bi)
+* [The OLS Assumptions](https://365datascience.com/tutorials/statistics-tutorials/ols-assumptions/) - 365datascience.com
 
 -----
 
