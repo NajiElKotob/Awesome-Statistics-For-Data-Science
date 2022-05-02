@@ -238,6 +238,11 @@
 * [Simulated Sampling Distributions](https://shiny.rit.albany.edu/stat/sampdist/) :star: - albany.edu
 * [One Sample T-Test Calculator](https://www.statskingdom.com/130MeanT1.html) - statskingdom.com
 * [Comparing Two Independent Samples (Sample Size)](https://www.stat.ubc.ca/~rollin/stats/ssize/n2.html) :star: - stat.ubc.ca
+* [Poisson Distribution Calculator](https://www.statology.org/poisson-distribution-calculator/) - statology.org | The probability that the restaurant receives more than 100 (Normal avg). e.g., 130 => P(X = 130): 0.00058
+
+
+
+
 -----
 ## Related Topics
 * [KPIs](https://github.com/NajiElKotob/Awesome-KPIs) - Awesome KPIs
