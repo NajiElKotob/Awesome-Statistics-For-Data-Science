@@ -164,6 +164,7 @@
   * [Monte Carlo Simulation](https://www.youtube.com/watch?v=OgO1gpXSUzU) - MIT OpenCourseWare
 * A/B Testing
 * Baye’s Theorem
+* Types of Distribution | Normal; Binomial; Uniform; Poisson; Beta; Gamma; Log
 
 -----
 ### Write-Up
