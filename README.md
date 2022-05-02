@@ -7,6 +7,7 @@
   * [What is Data](https://online.stat.psu.edu/stat508/lesson/1b/1b.1) - Data represent facts or something that has actually taken place, observed and measured. 
     * Data > (beats) Opinion
 * Data literacy
+<br/> `Data literacy is the ability to read, work with, analyze and communicate with data.`
   * [How to build data literacy in your company](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-build-data-literacy-your-company) - mit.edu
   * [Boost Your Team’s Data Literacy](https://hbr.org/2020/02/boost-your-teams-data-literacy) - hbr.org
   * [Data Analytics vs Data Analysis](https://www.bmc.com/blogs/data-analytics-vs-data-analysis/) - bmc.com
