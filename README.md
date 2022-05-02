@@ -31,6 +31,7 @@
 * [Berkson’s Bias](https://www.statology.org/berksons-bias/) - statology.org
 * Historical Bias
 * Outlier Bias
+* Visualization Bias 
 
 ## Numbers and Statistics
 ### Statistical Analysis
