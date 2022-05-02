@@ -202,9 +202,6 @@
 #### Vidoes :tv:
 * [How Imaginary Numbers Were Invented](https://www.youtube.com/watch?v=cUzklzVXJwo)
 
-#### Textbooks
-* [Mathspace](https://mathspace.co/textbooks/syllabuses/select) - mathspace.co | We bring all of your learning tools together in one place, from video lessons, textbooks, to adaptive practice. Encourage your students to become self-directed learners.
-
 -----
 
 #### Books
@@ -213,6 +210,8 @@
 * [Analysis of Multiple Dependent Variables](https://www.amazon.com/Analysis-Multiple-Dependent-Variables-Research/dp/0199773599)
 * [Introductory Statistics](https://saylordotorg.github.io/text_introductory-statistics/index.html) - saylordotorg.github.io
 * [Introduction to Statistics](https://courses.lumenlearning.com/odessa-introstats1-1/) - courses.lumenlearning.com
+* [Mathspace](https://mathspace.co/textbooks/syllabuses/select) :star: - mathspace.co | We bring all of your learning tools together in one place, from video lessons, textbooks, to adaptive practice. Encourage your students to become self-directed learners.
+
 
 #### YouTube :tv:
 * [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0) - MIT OpenCourseWare
