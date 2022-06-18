@@ -55,6 +55,7 @@
 `Describe, show or summarize data in a meaningful way`
 * Measures of Central Tendency - are single values that attempt to describe the central position of a set of data.
   * Mean - Most meaningful with normally distributed data
+    * The Greek letter μ (mu) is used in statistics to represent the population mean of a distribution.
   * Median - Diminish the effect of outliers
   * Mode - bi-modal distribution; categorical data
   * [Numerical Summarization](https://online.stat.psu.edu/stat508/lesson/1b/1b.2) - stat.psu.edu
