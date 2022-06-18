@@ -57,7 +57,7 @@
   * Mean - Most meaningful with normally distributed data
     * Arithmetic Mean Σx/n, Geometric Mean n√∏x, Harmonic Mean n/Σ(1/x) 
     * The Greek letter μ (mu) is used in statistics to represent the population mean of a distribution.
-  * Median - Diminish the effect of outliers
+  * Median - Diminish the effect of outliers (aka Med, M, x̃ 'x-tilde')
   * Mode - bi-modal distribution; categorical data
   * [Numerical Summarization](https://online.stat.psu.edu/stat508/lesson/1b/1b.2) - stat.psu.edu
   * Sensitivity to skewness
