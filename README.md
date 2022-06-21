@@ -54,11 +54,11 @@
 #### Descriptive Statistics
 `Describe, show or summarize data in a meaningful way`
 * Measures of Central Tendency - are single values that attempt to describe the central position of a set of data.
-  * Mean - Most meaningful with normally distributed data
+  * Mean (Average) - Most meaningful with normally distributed data
     * Arithmetic Mean Σx/n, Geometric Mean n√∏x, Harmonic Mean n/Σ(1/x) 
     * The Greek letter μ (mu) is used in statistics to represent the population mean of a distribution.
-  * Median - Diminish the effect of outliers (aka Med, M, x̃ 'x-tilde')
-  * Mode - bi-modal distribution; categorical data
+  * Median (The "middle" of a sorted list of numbers) - Diminish the effect of outliers (aka Med, M, x̃ 'x-tilde')
+  * Mode (Most Often) - bi-modal distribution; categorical data
   * [Numerical Summarization](https://online.stat.psu.edu/stat508/lesson/1b/1b.2) - stat.psu.edu
   * Sensitivity to skewness
 * Measures of Variability (Dispersion)
