@@ -76,7 +76,7 @@
     - When data are skewed right, the mean is larger than the median. 
     - When data are skewed left, the mean is smaller than the median.
   * Kurtosis (Leptokurtic, Mesokurtic, Platykurtic)
-* Percentiles and Quartiles
+* Percentiles, Quartiles, Quintile and Decile
   * Percentiles
     * The 30th percentile is the value from the data set greater than 30% of observations, and therefore less than 70% of observations. 
     * Median = 50th percentile
@@ -85,8 +85,9 @@
     * IQR = The difference between Q3 and Q1. IQR contains the middle 50% of data
   * [Quartiles](https://www.mathsisfun.com/data/quartiles.html) are the values that divide a list of numbers into quarters - mathsisfun.com
     * Interquartile range =  3rd quartile - 1st quartile
-    * Quintile - "A quintile is one of five values that divide a range of data into five equal parts, each being 1/5th (20 percent) of the range." [Investopedia](https://www.investopedia.com/terms/q/quintile.asp)
-    * Decile - Devide a range of data into ten equal parts, each being 1/10th (10 percent) of the range. 1st and 9th deciles equal to 10th and 90th percentiles.
+    * Exclusive method vs inclusive method - The exclusive method excludes the median when identifying Q1 and Q3, while the inclusive method includes the median in identifying the quartiles.
+  * Quintile - "A quintile is one of five values that divide a range of data into five equal parts, each being 1/5th (20 percent) of the range." [Investopedia](https://www.investopedia.com/terms/q/quintile.asp)
+  * Decile - Devide a range of data into ten equal parts, each being 1/10th (10 percent) of the range. 1st and 9th deciles equal to 10th and 90th percentiles.
   * Outliers
     * [Identifying outliers with the 1.5xIQR rule](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/box-whisker-plots/a/identifying-outliers-iqr-rule) - khanacademy.org
 * Percentage
