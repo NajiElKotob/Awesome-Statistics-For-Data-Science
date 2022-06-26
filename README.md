@@ -50,6 +50,7 @@
 * Confidence Intervals
   * [Confidence intervals explained](https://www.scribbr.com/statistics/confidence-interval/) - scribbr.com
   * [Understanding Confidence Intervals :tv:](https://www.youtube.com/watch?v=tFWsuO9f74o) - Dr Nic's Maths and Stats
+  * The correct interpretation of a 95% confidence interval is that "we are 95% confident that the population parameter is between X and X." [Learn more](https://online.stat.psu.edu/stat200/lesson/4/4.2/4.2.1)
 
 
 #### Descriptive Statistics
