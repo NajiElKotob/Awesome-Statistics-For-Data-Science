@@ -29,7 +29,7 @@
 
 ## Data Bias
 * Selection bias
-* [Berkson’s Bias](https://www.statology.org/berksons-bias/) - statology.org
+* [Berkson’s Bias](https://www.statology.org/berksons-bias/) - statology.org | Berkson’s bias is a type of bias that occurs in research when two variables appear to be negatively correlated in sample data, but are actually positively correlated in the overall population.
 * Historical Bias
 * Outlier Bias
 * Visualization Bias 
