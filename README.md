@@ -12,7 +12,7 @@
   * [Boost Your Team’s Data Literacy](https://hbr.org/2020/02/boost-your-teams-data-literacy) - hbr.org
   * [Data Analytics vs Data Analysis](https://www.bmc.com/blogs/data-analytics-vs-data-analysis/) - bmc.com
   * [Data literacy training](https://www.statcan.gc.ca/en/wtc/data-literacy) - statcan.gc.ca
-* Data Culture
+* A [Data Culture](https://www.tableau.com/why-tableau/data-culture) is the collective behaviors and beliefs of people who value, practice, and encourage the use of data to improve decision-making. 
 * Data Types
   * Qualitative
     * Nominal, Ordinal, Binary
