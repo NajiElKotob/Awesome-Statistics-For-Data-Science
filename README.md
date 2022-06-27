@@ -23,7 +23,7 @@
     * [Types of Variable](https://statistics.laerd.com/statistical-guides/types-of-variable.php) - Laerd.com
     * Interval scale Vs Ratio scale: Interval scales hold no true zero and can represent values below zero e.g., you can measure temperature below 0 degrees Celsius, such as -10 degrees.; Ratio variables never fall below zero. Height and weight measure from 0 and above, but never fall below it.
     * [When a Variable’s Level of Measurement Isn’t Obvious](https://www.theanalysisfactor.com/level-of-measurement-not-obvious/) - theanalysisfactor.com
-    * Foot Size vs Shoe Size
+    * Foot Size vs Shoe Size - Shoe size is whole number (discrete), but the underlying measure is foot length which is measurement (continuous) data. [learn more](https://arbs.nzcer.org.nz/printpdf/7200)
     * Is Age Discrete or Continuous? 
 -----
 
