@@ -231,8 +231,9 @@
 
 
 #### Learning
-* [Praxis Core Math](https://www.khanacademy.org/test-prep/praxis-math/praxis-math-lessons)
+* [Praxis Core Math](https://www.khanacademy.org/test-prep/praxis-math/praxis-math-lessons) - .khanacademy.org
 * [Data Science for Beginners (Microsoft)](https://github.com/microsoft/Data-Science-For-Beginners)
+* [Introduction to Data Science](http://dept.stat.lsa.umich.edu/~kshedden/introds/topics/what_is_statistics/) - umich.edu
 
 -----
 ### Tools
