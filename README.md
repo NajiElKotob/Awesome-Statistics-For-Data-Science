@@ -151,6 +151,7 @@
 ##### Error Estimatinos
 ##### Effect Size
 * Cohen's d is designed for comparing two groups. It takes the difference between two means and expresses it in standard deviation units. It tells you how many standard deviations lie between the two means [learn more](https://www.scribbr.com/statistics/effect-size/)
+  * [How To Calculate Cohen's d In Excel](https://www.youtube.com/watch?v=zUmQ2PZZRJ4)
 * [Power Analysis, Clearly Explained! :tv:](https://www.youtube.com/watch?v=VX_M3tIyiYk) - StatQuest
 
 -----
