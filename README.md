@@ -237,7 +237,7 @@
 * [Data Science for Beginners (Microsoft)](https://github.com/microsoft/Data-Science-For-Beginners)
 * [Introduction to Data Science](http://dept.stat.lsa.umich.edu/~kshedden/introds/topics/what_is_statistics/) - umich.edu
 * [The Data Journey](https://www.statcan.gc.ca/en/wtc/data-literacy/catalogue) - statcan.gc.ca
-
+* [Free Data Science Courses - Harvard University](https://pll.harvard.edu/catalog?keywords=&subject%5B%5D=84&free%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=) - harvard.edu
 -----
 ### Tools
 * [Statistics Kingdom](https://www.statskingdom.com/) - statskingdom.com
