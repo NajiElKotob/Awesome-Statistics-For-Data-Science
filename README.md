@@ -34,6 +34,7 @@
 * Historical Bias
 * Outlier Bias
 * Visualization Bias 
+* Simpson's Paradox
 
 ## Numbers and Statistics
 ### Statistical Analysis
