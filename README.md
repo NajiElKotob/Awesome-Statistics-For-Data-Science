@@ -26,6 +26,7 @@
     * Foot Size vs Shoe Size - Shoe size (discrete), but the underlying measure is foot length which is measurement (continuous) data. [learn more](https://arbs.nzcer.org.nz/printpdf/7200)
     * [Discrete vs. Continuous Variables: Meaning and Differences](https://articles.outlier.org/discrete-vs-continuous-variables) - outlier.org
     * Is Age Discrete or Continuous? 
+    * The numbers on the basketball players' t-shirts? 
 -----
 
 ## Data Bias
