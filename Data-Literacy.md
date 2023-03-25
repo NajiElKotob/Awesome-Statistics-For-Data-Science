@@ -1,1 +1,3 @@
-#Data Literacy
+# Data Literacy
+## Math
+* PEMDAS
