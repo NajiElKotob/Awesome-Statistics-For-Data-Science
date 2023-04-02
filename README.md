@@ -147,10 +147,18 @@
   * [What’s the difference between univariate, bivariate and multivariate descriptive statistics?](https://www.scribbr.com/frequently-asked-questions/univariate-vs-bivariate-vs-multivariate/) - scribbr.com
   * [What is a multivariate relationship?](https://treehozz.com/what-is-a-multivariate-relationship)
 * Upsampling and Downsampling  
-##### Statisticsl Tests
+##### Statisticsl Tests and Analysis
 * [Statistical tests: which one should you use?](https://www.scribbr.com/statistics/statistical-tests) - scribbr.com
 * [Choosing the correct statistical test in SAS, Stata, SPSS and R](https://stats.idre.ucla.edu/other/mult-pkg/whatstat) - stats.idre.ucla.edu
 * [How to choose the right statistical test?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/) - Barun Nayak and Avijit Hazra1
+* Frequency Distribution
+* [Cross Tabulation](https://www.alchemer.com/resources/blog/cross-tabulation/)
+* [Correspondence analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3718710/)
+* [Multinomial Logistic Regression](http://bayes.acs.unt.edu:8083/BayesContent/class/Jon/Benchmarks/MLR_JDS_Aug2011.pdf)
+* Cluster Analysis
+* [One-hot encoding](https://www.naukri.com/learning/articles/handling-categorical-variables-with-one-hot-encoding/)
+* [Numerical encoding](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00305-w)
+* Ordinal encoding
 ##### Error Estimatinos
 ##### Effect Size
 * Cohen's d is designed for comparing two groups. It takes the difference between two means and expresses it in standard deviation units. It tells you how many standard deviations lie between the two means [learn more](https://www.scribbr.com/statistics/effect-size/)
