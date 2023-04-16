@@ -108,9 +108,9 @@
     * [Correlation vs Causation: Understand the Difference for Your Product](https://blog.amplitude.com/causation-correlation) - amplitude.com
     * [Correlation](https://www.khanacademy.org/test-prep/praxis-math/praxis-math-lessons/gtp--praxis-math--lessons--statistics-and-probability/a/gtp--praxis-math--article--correlation-and-causation--lesson) means there is a relationship or pattern between the values of two variables. A scatterplot displays data about two variables as a set of points in the xyxyx, y-plane and is a useful tool for determining if there is a correlation between the variables.
     * [Causation](https://www.khanacademy.org/test-prep/praxis-math/praxis-math-lessons/gtp--praxis-math--lessons--statistics-and-probability/a/gtp--praxis-math--article--correlation-and-causation--lesson) means that one event causes another event to occur. Causation can only be determined from an appropriately designed experiment. In such experiments, similar groups receive different treatments, and the outcomes of each group are studied. We can only conclude that a treatment causes an effect if the groups have noticeably different outcomes.
+    * [Confounding Variables](https://www.scribbr.com/methodology/confounding-variables/) - scribbr.com
   * Correlation Coefficients
     * [What Do Correlation Coefficients Positive, Negative, and Zero Mean?](https://www.investopedia.com/ask/answers/032515/what-does-it-mean-if-correlation-coefficient-positive-negative-or-zero.asp) - investopedia.com 
-  * [Confounding Variables](https://www.scribbr.com/methodology/confounding-variables/) - scribbr.com
   * Covariance
     * [What Is Covariance?](https://www.investopedia.com/terms/c/covariance.asp) - investopedia.com
 * [Normalization vs Standardization](https://towardsdatascience.com/normalization-vs-standardization-cb8fe15082eb)
