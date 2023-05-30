@@ -57,6 +57,7 @@
   * [Understanding Confidence Intervals :tv:](https://www.youtube.com/watch?v=tFWsuO9f74o) - Dr Nic's Maths and Stats
   * The correct interpretation of a 95% confidence interval is that "we are 95% confident that the population parameter is between X and X." [Learn more](https://online.stat.psu.edu/stat200/lesson/4/4.2/4.2.1)
   * Confidence Intervals estimate how close a sample mean is to the actual mean.
+  * Critical Values (Z) 99%=2.575; 95%=1.960; 90%=1.645; 85%=1.440; 80%=1.282
 
 
 #### Descriptive Statistics
