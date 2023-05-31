@@ -131,6 +131,7 @@
 * [Type I and Type II errors](https://www.scribbr.com/statistics/type-i-and-type-ii-errors/) - scribbr.com
   * Which is more dangerous for a smoke detector? A type I (false positive) or type II error (false negative)? 
 * t-test - compares the means of two groups
+* Chi-Square test - determines whether categorical variables are associated
 * z-test
   * Z-Scores
     * Simply put, a z-score (also called a standard score) gives you an idea of how far from the mean a data point is. But more technically it’s a measure of how many standard deviations below or above the population mean a raw score is. [learn more](https://www.statisticshowto.com/probability-and-statistics/z-score/)
