@@ -151,6 +151,14 @@
   * [What’s the difference between univariate, bivariate and multivariate descriptive statistics?](https://www.scribbr.com/frequently-asked-questions/univariate-vs-bivariate-vs-multivariate/) - scribbr.com
   * [What is a multivariate relationship?](https://treehozz.com/what-is-a-multivariate-relationship)
 * Upsampling and Downsampling  
+
+###### Error Types
+* Accept H0 AND H0 is True = Correct
+* Reject H0 AND H0 is False = Correct
+* Reject H0 AND H0 is True = Type I Error
+* Accept H0 AND H0 is False = Type II Error
+
+
 ##### Statisticsl Tests and Analysis
 * [Statistical tests: which one should you use?](https://www.scribbr.com/statistics/statistical-tests) - scribbr.com
 * [Choosing the correct statistical test in SAS, Stata, SPSS and R](https://stats.idre.ucla.edu/other/mult-pkg/whatstat) - stats.idre.ucla.edu
