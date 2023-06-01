@@ -254,7 +254,7 @@
 * [Stephanie Glen](https://www.youtube.com/channel/UCs3IhN8VOA_5WxpAgbSmFkg) - statisticshowto.com
 * [Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566) - The average, Descriptive statistics, Probability and Statistics
 * [statisticsfun](https://www.youtube.com/channel/UClD8c_piy1nrJySPJUgyivg)
-
+* [Evidence-Based Practice](https://www.youtube.com/playlist?list=PLY8_JDQGfT2YagtzhXIQikjXlSNDNFtAo) - Rich Simpson
 
 #### Learning
 * [Praxis Core Math](https://www.khanacademy.org/test-prep/praxis-math/praxis-math-lessons) - .khanacademy.org
