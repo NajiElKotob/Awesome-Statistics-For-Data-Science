@@ -102,6 +102,8 @@
 * Percentage
   * [Percentage Difference, Percentage Error, Percentage Change](https://www.mathsisfun.com/data/percentage-difference-vs-error.html) - mathsisfun.com
   * [Percentage Change and Percent Difference](http://sumn.org/downloads/Percentage_Change.pdf) - sumn.org
+  * Change = ((New - Old) / |Old|) * 100
+  * Difference = |(First - Second)/((First + Second)/2)| * 100
 * Binning
   * [Freedman–Diaconis rule](https://en.wikipedia.org/wiki/Freedman%E2%80%93Diaconis_rule)
   * [Sturge’s rule](https://www.statology.org/sturges-rule/) - Optimal Bins = ⌈log2n + 1⌉
