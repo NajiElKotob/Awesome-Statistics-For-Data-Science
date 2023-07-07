@@ -181,6 +181,10 @@
 * [Power Analysis, Clearly Explained! :tv:](https://www.youtube.com/watch?v=VX_M3tIyiYk) - StatQuest
 
 -----
+## Time Series Analysis
+
+
+-----
 ### Other Topics
 * Equations and Functions
   * [The Distributive Property (Video)](https://www.youtube.com/watch?v=v-6MShC82ow) - Algebra Basics: The Distributive Property - Math Antics
