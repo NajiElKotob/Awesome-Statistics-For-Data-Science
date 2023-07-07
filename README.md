@@ -182,6 +182,12 @@
 
 -----
 ## Time Series Analysis
+`Time series analysis is a statistical method that deals with time series data, or trend analysis. Here are some of the most widely used techniques for time series analysis:`
+### Autoregressive Integrated Moving Average (ARIMA)
+### Seasonal Decomposition of Time Series (STL or SEATS)
+### Exponential Smoothing (ETS)
+### Vector Autoregression (VAR)
+
 
 
 -----
