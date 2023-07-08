@@ -185,6 +185,7 @@
 `Time series analysis is a statistical method that deals with time series data, or trend analysis. Here are some of the most widely used techniques for time series analysis:`
 * [Naive Forecast](https://forecastegy.com/posts/naive-time-series-forecasting-in-python/) - forecastegy.com | The simple naive model predicts the next values as the last observed value.
 * Seasonal Naive Forecast
+* Window Average Forecast
 * Autoregressive Integrated Moving Average (ARIMA)
 * Seasonal Decomposition of Time Series (STL or SEATS)
 * Exponential Smoothing (ETS)
