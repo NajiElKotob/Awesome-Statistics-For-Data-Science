@@ -186,6 +186,7 @@
 * [Naive Forecast](https://forecastegy.com/posts/naive-time-series-forecasting-in-python/) - forecastegy.com | The simple naive model predicts the next values as the last observed value.
 * Seasonal Naive Forecast
 * Window Average Forecast
+* Seasonal Window Average Forecast
 * Autoregressive Integrated Moving Average (ARIMA)
 * Seasonal Decomposition of Time Series (STL or SEATS)
 * Exponential Smoothing (ETS)
