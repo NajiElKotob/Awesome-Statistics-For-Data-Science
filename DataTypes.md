@@ -74,3 +74,39 @@ Like interval data but with a true zero, making more operations possible. Exampl
 
 - Money in a bank account: `$0, $100, $200, ...`
 - Time taken to complete a task: `0 hours, 2 hours, 4 hours, ...`
+
+-----
+  
+
+```
++------------------------+
+|   Data Types in        |
+|   Statistics           |
++------------------------+
+|                        |
++-- Numerical (Quantitative)
+|     |
+|     +-- Discrete
+|     |     |
+|     |     +-- (Example) Number of books: 0, 1, 2, ...
+|     |
+|     +-- Continuous
+|           |
+|           +-- Interval
+|           |     |
+|           |     +-- (Example) Temperature: 32°F, 33°F, ...
+|           |
+|           +-- Ratio
+|                 |
+|                 +-- (Example) Distance: 0 km, 5 km, 10 km, ...
+|
++-- Categorical (Qualitative)
+      |
+      +-- Nominal
+      |     |
+      |     +-- (Example) Colors of shirts: Red, Blue, Green, ...
+      |
+      +-- Ordinal
+            |
+            +-- (Example) Class levels: Freshman, Sophomore, Junior, Senior, ...
+```
