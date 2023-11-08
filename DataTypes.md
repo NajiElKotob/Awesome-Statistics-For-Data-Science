@@ -118,3 +118,8 @@ Like interval data but with a true zero, making more operations possible. Exampl
 ## Terms
 * **Individuals** are the people or things described by a data set.
 * **Variables** are characteristics of the individuals that we measure or observe.
+
+-----
+
+## References
+* [Individuals, variables, and categorical & quantitative data](https://www.khanacademy.org/math/ap-statistics/analyzing-categorical-ap/xfb5d8e68:language-variation-variables/e/individuals-variables-categorical-quantitative-data) - khanacademy.org
