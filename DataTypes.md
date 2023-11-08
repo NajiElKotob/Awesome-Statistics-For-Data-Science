@@ -1,4 +1,4 @@
-# Data Types
+![image](https://github.com/NajiElKotob/Awesome-Statistics-For-Data-Science/assets/24192895/6b0e489b-6f17-43ba-9f35-f28f9307db14)# Data Types
 
 {Awesome Works in Progress}
 
@@ -110,3 +110,9 @@ Like interval data but with a true zero, making more operations possible. Exampl
             |
             +-- (Example) Class levels: Freshman, Sophomore, Junior, Senior, ...
 ```
+
+-----
+
+## Terms
+* **Individuals** are the people or things described by a data set.
+* **Variables** are characteristics of the individuals that we measure or observe.
