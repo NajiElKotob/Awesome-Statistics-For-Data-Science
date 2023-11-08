@@ -1,4 +1,4 @@
-![image](https://github.com/NajiElKotob/Awesome-Statistics-For-Data-Science/assets/24192895/6b0e489b-6f17-43ba-9f35-f28f9307db14)# Data Types
+# Data Types
 
 {Awesome Works in Progress}
 
