@@ -114,6 +114,10 @@ Like interval data but with a true zero, making more operations possible. Exampl
 ```
 
 -----
+## Challenges
+* What type of numerical variable best represents shoe sizes such as 40.5, 41, 41.5, etc.?
+
+-----
 
 ## Terms
 * **Individuals** are the people or things described by a data set.
