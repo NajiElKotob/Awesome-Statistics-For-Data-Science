@@ -62,7 +62,7 @@ Binary data has two possible values. Examples:
 - Questionnaire with yes or no answers: `Yes (1), No (0)`
 - Light switch status: `On (1), Off (0)`
 
-> binary data is also referred to as dichotomous, Boolean, yes/no, and sometimes even true/false data. In essence, binary data represents a scenario where there are only two possible outcomes. In programming and logic, Boolean data type is often explicitly used to represent binary values, typically with true or false. In the context of a questionnaire or simple data recording, "Yes" or "No" is a common representation, and in data analysis, such binary outcomes might be coded as 1 or 0 for ease of mathematical computation and logical comparison.
+> **binary data** is also referred to as dichotomous, Boolean, yes/no, and sometimes even true/false data. In essence, binary data represents a scenario where there are only two possible outcomes. In programming and logic, Boolean data type is often explicitly used to represent binary values, typically with true or false. In the context of a questionnaire or simple data recording, "Yes" or "No" is a common representation, and in data analysis, such binary outcomes might be coded as 1 or 0 for ease of mathematical computation and logical comparison.
 
 ### Interval Data
 
