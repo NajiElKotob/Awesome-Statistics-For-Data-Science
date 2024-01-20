@@ -195,7 +195,8 @@
 * Wide and Long data
 * [Pairwise vs. Listwise deletion](https://www.ibm.com/support/pages/pairwise-vs-listwise-deletion-what-are-they-and-when-should-i-use-them)
 * Monte Carlo
-  * [Monte Carlo Simulation](https://www.youtube.com/watch?v=OgO1gpXSUzU) - MIT OpenCourseWare
+  * [Monte Carlo Simulation 📺](https://www.youtube.com/watch?v=OgO1gpXSUzU) - MIT OpenCourseWare
+  * [Introduction to Monte Carlo simulation in Excel](https://support.microsoft.com/en-us/office/introduction-to-monte-carlo-simulation-in-excel-64c0ba99-752a-4fa8-bbd3-4450d8db16f1)
 * A/B Testing
 * Baye’s Theorem
 * Types of Distribution | Normal; Binomial; Uniform; Poisson; Beta; Gamma; Log
