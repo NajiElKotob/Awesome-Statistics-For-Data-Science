@@ -231,6 +231,7 @@
 * [Khan Academy - Linear algebra](https://www.khanacademy.org/math/linear-algebra)
 * [Essential Math for Data Science: Introduction to Matrices and the Matrix Product](https://www.kdnuggets.com/2021/02/essential-math-data-science-matrices-matrix-product.html)
 * [Graphing Calculator](https://www.desmos.com/calculator) ⭐ - desmos.com | Explore math with our beautiful, free online graphing calculator.
+* [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - 3Blue1Brown 
 
 #### Gradient
 * [What Is a Gradient in Machine Learning?](https://machinelearningmastery.com/gradient-in-machine-learning/) - machinelearningmastery.com
