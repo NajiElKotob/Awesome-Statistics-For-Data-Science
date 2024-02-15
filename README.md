@@ -232,6 +232,9 @@
 * [Essential Math for Data Science: Introduction to Matrices and the Matrix Product](https://www.kdnuggets.com/2021/02/essential-math-data-science-matrices-matrix-product.html)
 * [Graphing Calculator](https://www.desmos.com/calculator) ⭐ - desmos.com | Explore math with our beautiful, free online graphing calculator.
 
+#### Gradient
+* [Understanding Gradient Descent Algorithm and the Maths Behind It](https://www.analyticsvidhya.com/blog/2021/08/understanding-gradient-descent-algorithm-and-the-maths-behind-it/) - analyticsvidhya.com
+
 #### Optimization Methods
 
 #### Extra Knowledge
