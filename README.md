@@ -233,6 +233,7 @@
 * [Graphing Calculator](https://www.desmos.com/calculator) ⭐ - desmos.com | Explore math with our beautiful, free online graphing calculator.
 
 #### Gradient
+* [What Is a Gradient in Machine Learning?](https://machinelearningmastery.com/gradient-in-machine-learning/) - machinelearningmastery.com
 * [Understanding Gradient Descent Algorithm and the Maths Behind It](https://www.analyticsvidhya.com/blog/2021/08/understanding-gradient-descent-algorithm-and-the-maths-behind-it/) - analyticsvidhya.com
 
 #### Optimization Methods
