@@ -225,7 +225,13 @@
 ### Surveys
 * [Survey testing](https://www.abs.gov.au/websitedbs/d3310114.nsf/home/Basic+Survey+Design+-+Survey+Testing) - abs.gov.au
 
-
+### Books
+* [Pattern Recognition and Machine Learning (Free)](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
+* [Analysis of Multiple Dependent Variables](https://www.amazon.com/Analysis-Multiple-Dependent-Variables-Research/dp/0199773599)
+* [Introductory Statistics](https://saylordotorg.github.io/text_introductory-statistics/index.html) - saylordotorg.github.io
+* [Introduction to Statistics](https://courses.lumenlearning.com/odessa-introstats1-1/) - courses.lumenlearning.com
+* [Mathspace](https://mathspace.co/textbooks/syllabuses/select) :star: - mathspace.co | We bring all of your learning tools together in one place, from video lessons, textbooks, to adaptive practice. Encourage your students to become self-directed learners.
+* [Introduction to Probability for Data Science](https://probability4datascience.com/) - probability4datascience.com
 
 
 -----
@@ -254,13 +260,8 @@
 * [What Is The Fibonacci Sequence?](https://elearningindustry.com/fibonacci-sequence-what-is-and-how-applies-agile-development) - The Fibonacci Sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55… (Xn = Xn-1 + Xn-2)
 
 #### Books
-* [Pattern Recognition and Machine Learning (Free)](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 * [Mathematics for Machine Learning (Free)](https://mml-book.github.io/)
-* [Analysis of Multiple Dependent Variables](https://www.amazon.com/Analysis-Multiple-Dependent-Variables-Research/dp/0199773599)
-* [Introductory Statistics](https://saylordotorg.github.io/text_introductory-statistics/index.html) - saylordotorg.github.io
-* [Introduction to Statistics](https://courses.lumenlearning.com/odessa-introstats1-1/) - courses.lumenlearning.com
-* [Mathspace](https://mathspace.co/textbooks/syllabuses/select) :star: - mathspace.co | We bring all of your learning tools together in one place, from video lessons, textbooks, to adaptive practice. Encourage your students to become self-directed learners.
-* [Introduction to Probability for Data Science](https://probability4datascience.com/) - probability4datascience.com
+
 
 #### YouTube :tv:
 * [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0) - MIT OpenCourseWare
