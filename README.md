@@ -203,6 +203,18 @@
 * Types of Distribution | Normal; Binomial; Uniform; Poisson; Beta; Gamma; Log
 
 -----
+### Tools
+* [Statistics Kingdom](https://www.statskingdom.com/) - statskingdom.com
+* [DrawMyData](http://robertgrantstats.co.uk/drawmydata.html) - a tool for teaching stats and data science by Robert Grant
+* [Desmos - Graphing Calculator](https://www.desmos.com/calculator) - desmos.com
+* [Standard Normal Distribution Table](https://www.mathsisfun.com/data/standard-normal-distribution-table.html) - mathsisfun.com
+* [Probability Distribution Applets](https://homepage.divms.uiowa.edu/~mbognar/) - divms.uiowa.edu (Matt Bognar, Ph.D.)
+* [Simulated Sampling Distributions](https://shiny.rit.albany.edu/stat/sampdist/) :star: - albany.edu
+* [One Sample T-Test Calculator](https://www.statskingdom.com/130MeanT1.html) - statskingdom.com
+* [Comparing Two Independent Samples (Sample Size)](https://www.stat.ubc.ca/~rollin/stats/ssize/n2.html) :star: - stat.ubc.ca
+* [Poisson Distribution Calculator](https://www.statology.org/poisson-distribution-calculator/) - statology.org | The probability that the restaurant receives more than 100 (Normal avg). e.g., 130 => P(X = 130): 0.00058
+  
+-----
 ### Write-Up
 * [Analytical Report – What Is It and How to Write It?](https://whatagraph.com/blog/articles/analytical-report) - whatagraph.com
 * APA
@@ -214,12 +226,7 @@
 * [Survey testing](https://www.abs.gov.au/websitedbs/d3310114.nsf/home/Basic+Survey+Design+-+Survey+Testing) - abs.gov.au
 
 
------
 
-### Algorithms 
-#### Regression
-* [zedstatistics :tv:](https://www.youtube.com/watch?v=aq8VU5KLmkY&list=PLTNMv857s9WUI1Nz4SssXDKAELESXz-bi)
-* [The OLS Assumptions](https://365datascience.com/tutorials/statistics-tutorials/ols-assumptions/) - 365datascience.com
 
 -----
 
@@ -273,18 +280,6 @@
 * [The Data Journey](https://www.statcan.gc.ca/en/wtc/data-literacy/catalogue) - statcan.gc.ca
 * [Free Data Science Courses - Harvard University](https://pll.harvard.edu/catalog?keywords=&subject%5B%5D=84&free%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=) - harvard.edu
   
------
-### Tools
-* [Statistics Kingdom](https://www.statskingdom.com/) - statskingdom.com
-* [DrawMyData](http://robertgrantstats.co.uk/drawmydata.html) - a tool for teaching stats and data science by Robert Grant
-* [Desmos - Graphing Calculator](https://www.desmos.com/calculator) - desmos.com
-* [Standard Normal Distribution Table](https://www.mathsisfun.com/data/standard-normal-distribution-table.html) - mathsisfun.com
-* [Probability Distribution Applets](https://homepage.divms.uiowa.edu/~mbognar/) - divms.uiowa.edu (Matt Bognar, Ph.D.)
-* [Simulated Sampling Distributions](https://shiny.rit.albany.edu/stat/sampdist/) :star: - albany.edu
-* [One Sample T-Test Calculator](https://www.statskingdom.com/130MeanT1.html) - statskingdom.com
-* [Comparing Two Independent Samples (Sample Size)](https://www.stat.ubc.ca/~rollin/stats/ssize/n2.html) :star: - stat.ubc.ca
-* [Poisson Distribution Calculator](https://www.statology.org/poisson-distribution-calculator/) - statology.org | The probability that the restaurant receives more than 100 (Normal avg). e.g., 130 => P(X = 130): 0.00058
-
 
 -----
 ## Related Topics
