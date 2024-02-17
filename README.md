@@ -237,6 +237,9 @@
 -----
 
 ### Mathematics for Machine Learning
+#### Precalculus
+* [Precalculus by Richard Wright](https://www.andrews.edu/~rwright/Precalculus-RLW/Text/TOC.html) - andrews.edu
+  
 #### Calculus
 #### Linear Algebra
 * [Scalars, Vectors and Matrices](https://www.mathsisfun.com/algebra/scalar-vector-matrix.html)
