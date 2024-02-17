@@ -223,7 +223,7 @@
 
 -----
 
-### Math
+### Mathematics for Machine Learning
 #### Calculus
 #### Linear Algebra
 * [Scalars, Vectors and Matrices](https://www.mathsisfun.com/algebra/scalar-vector-matrix.html)
@@ -236,7 +236,6 @@
 #### Matrices
 * [The Applications of Matrices | What I wish my teachers told me way earlier 📺 ~25min](https://www.youtube.com/watch?v=rowWM-MijXU) - Zach Star
 
-
 #### Gradient
 * [What Is a Gradient in Machine Learning?](https://machinelearningmastery.com/gradient-in-machine-learning/) - machinelearningmastery.com
 * [Understanding Gradient Descent Algorithm and the Maths Behind It](https://www.analyticsvidhya.com/blog/2021/08/understanding-gradient-descent-algorithm-and-the-maths-behind-it/) - analyticsvidhya.com
@@ -246,11 +245,6 @@
 #### Extra Knowledge
 * [Mathematics is the queen of Sciences (Video)](https://www.youtube.com/watch?v=8mve0UoSxTo)
 * [What Is The Fibonacci Sequence?](https://elearningindustry.com/fibonacci-sequence-what-is-and-how-applies-agile-development) - The Fibonacci Sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55… (Xn = Xn-1 + Xn-2)
-
-#### Vidoes :tv:
-* [How Imaginary Numbers Were Invented](https://www.youtube.com/watch?v=cUzklzVXJwo)
-
------
 
 #### Books
 * [Pattern Recognition and Machine Learning (Free)](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
@@ -270,6 +264,7 @@
 * [Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566) - The average, Descriptive statistics, Probability and Statistics
 * [statisticsfun](https://www.youtube.com/channel/UClD8c_piy1nrJySPJUgyivg)
 * [Evidence-Based Practice](https://www.youtube.com/playlist?list=PLY8_JDQGfT2YagtzhXIQikjXlSNDNFtAo) - Rich Simpson
+* [How Imaginary Numbers Were Invented](https://www.youtube.com/watch?v=cUzklzVXJwo)
 
 #### Learning
 * [Praxis Core Math](https://www.khanacademy.org/test-prep/praxis-math/praxis-math-lessons) - .khanacademy.org
@@ -277,6 +272,7 @@
 * [Introduction to Data Science](http://dept.stat.lsa.umich.edu/~kshedden/introds/topics/what_is_statistics/) - umich.edu
 * [The Data Journey](https://www.statcan.gc.ca/en/wtc/data-literacy/catalogue) - statcan.gc.ca
 * [Free Data Science Courses - Harvard University](https://pll.harvard.edu/catalog?keywords=&subject%5B%5D=84&free%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=) - harvard.edu
+  
 -----
 ### Tools
 * [Statistics Kingdom](https://www.statskingdom.com/) - statskingdom.com
@@ -290,8 +286,8 @@
 * [Poisson Distribution Calculator](https://www.statology.org/poisson-distribution-calculator/) - statology.org | The probability that the restaurant receives more than 100 (Normal avg). e.g., 130 => P(X = 130): 0.00058
 
 
-
-
 -----
 ## Related Topics
+* [Numbers](https://github.com/NajiElKotob/Awesome-Numbers) - Awesome Numbers
 * [KPIs](https://github.com/NajiElKotob/Awesome-KPIs) - Awesome KPIs
+* [Python](https://github.com/NajiElKotob/Awesome-Python) - Awesome Python
