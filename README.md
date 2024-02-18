@@ -237,6 +237,10 @@
 -----
 
 ### Mathematics for Machine Learning
+`Linear Algebra: Fundamental concepts such as matrices, vectors, dot products, and matrix multiplication are crucial. Linear algebra provides the language and framework for describing and manipulating data in ML.
+Calculus: Understanding of derivatives and gradients is important for optimization problems in ML, including gradient descent.
+Probability and Statistics: Basic understanding of probabilities, probability distributions, means, variances, and expectation values is essential for understanding models, making predictions, and evaluating model performance.`
+
 #### Precalculus
 * [Precalculus by Richard Wright](https://www.andrews.edu/~rwright/Precalculus-RLW/Text/TOC.html) - andrews.edu
   
