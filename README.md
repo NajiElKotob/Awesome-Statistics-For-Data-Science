@@ -251,7 +251,8 @@
 
 #### Matrices
 * [The Applications of Matrices | What I wish my teachers told me way earlier 📺 ~25min](https://www.youtube.com/watch?v=rowWM-MijXU) - Zach Star
-
+* [Matrix Calculator - DESMOS](https://www.desmos.com/matrix) - desmos.com [How to](https://help.desmos.com/hc/en-us/articles/4404851938445-Matrix-Calculator)
+  
 #### Gradient
 * [What Is a Gradient in Machine Learning?](https://machinelearningmastery.com/gradient-in-machine-learning/) - machinelearningmastery.com
 * [Understanding Gradient Descent Algorithm and the Maths Behind It](https://www.analyticsvidhya.com/blog/2021/08/understanding-gradient-descent-algorithm-and-the-maths-behind-it/) - analyticsvidhya.com
