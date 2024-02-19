@@ -255,6 +255,7 @@ Probability and Statistics: Basic understanding of probabilities, probability di
 
 #### Matrices
 * [The Applications of Matrices | What I wish my teachers told me way earlier 📺 ~25min](https://www.youtube.com/watch?v=rowWM-MijXU) - Zach Star
+* [Introduction to Matrices](https://math.libretexts.org/Bookshelves/Applied_Mathematics/Applied_Finite_Mathematics_(Sekhon_and_Bloom)/02%3A_Matrices/2.01%3A_Introduction_to_Matrices) ⭐ - math.libretexts.org
 * [Matrix Calculator - DESMOS](https://www.desmos.com/matrix) - desmos.com [How to](https://help.desmos.com/hc/en-us/articles/4404851938445-Matrix-Calculator)
   
 #### Gradient
