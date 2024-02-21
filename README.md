@@ -118,6 +118,7 @@
     * [What Do Correlation Coefficients Positive, Negative, and Zero Mean?](https://www.investopedia.com/ask/answers/032515/what-does-it-mean-if-correlation-coefficient-positive-negative-or-zero.asp) - investopedia.com 
   * Covariance
     * [What Is Covariance?](https://www.investopedia.com/terms/c/covariance.asp) - investopedia.com
+    * [Covariance (CFI)](https://corporatefinanceinstitute.com/resources/data-science/covariance/) - orporatefinanceinstitute.com | A measure of the relationship between random variables
 * [Normalization vs Standardization](https://towardsdatascience.com/normalization-vs-standardization-cb8fe15082eb)
 
 -----
