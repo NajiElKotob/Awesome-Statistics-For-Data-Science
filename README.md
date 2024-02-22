@@ -253,7 +253,7 @@ Probability and Statistics: Basic understanding of probabilities, probability di
 * [Essential Math for Data Science: Introduction to Matrices and the Matrix Product](https://www.kdnuggets.com/2021/02/essential-math-data-science-matrices-matrix-product.html)
 * [Graphing Calculator](https://www.desmos.com/calculator) ⭐ - desmos.com | Explore math with our beautiful, free online graphing calculator.
 * [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - 3Blue1Brown
-* [The Art of Linear Programming 📺 ~19min](https://www.youtube.com/watch?v=E72DWgKP_1Y) - Tom S
+* [The Art of Linear Programming 📺 ~19min](https://www.youtube.com/watch?v=E72DWgKP_1Y) ⭐ - Tom S
 
 #### Matrices
 * [The Applications of Matrices | What I wish my teachers told me way earlier 📺 ~25min](https://www.youtube.com/watch?v=rowWM-MijXU) - Zach Star
