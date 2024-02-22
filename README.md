@@ -245,6 +245,7 @@ Probability and Statistics: Basic understanding of probabilities, probability di
 #### Precalculus
 * [Precalculus by Richard Wright](https://www.andrews.edu/~rwright/Precalculus-RLW/Text/TOC.html) - andrews.edu
 * [Precalculus & Trigonometry](https://math.libretexts.org/Bookshelves/Precalculus) - math.libretexts.org
+* [Precalculus (Cuemath)](https://www.cuemath.com/calculus/precalculus/) - cuemath.com
   
 #### Calculus
 #### Linear Algebra
