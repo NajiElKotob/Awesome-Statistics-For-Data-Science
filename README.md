@@ -242,26 +242,30 @@
 Calculus: Understanding of derivatives and gradients is important for optimization problems in ML, including gradient descent.
 Probability and Statistics: Basic understanding of probabilities, probability distributions, means, variances, and expectation values is essential for understanding models, making predictions, and evaluating model performance.`
 
+#### Linear Algebra
+* [Khan Academy - Linear algebra](https://www.khanacademy.org/math/linear-algebra)
+
+##### YouTube 📺
+* [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - 3Blue1Brown
+* [The Art of Linear Programming 📺 ~19min](https://www.youtube.com/watch?v=E72DWgKP_1Y) ⭐ - Tom S
+
+##### Tools
+* [Graphing Calculator](https://www.desmos.com/calculator) ⭐ - desmos.com | Explore math with our beautiful, free online graphing calculator.
+  
+### Calculus
 #### Precalculus
 * [Precalculus by Richard Wright](https://www.andrews.edu/~rwright/Precalculus-RLW/Text/TOC.html) - andrews.edu
 * [Precalculus & Trigonometry](https://math.libretexts.org/Bookshelves/Precalculus) - math.libretexts.org
 * [Precalculus (Cuemath)](https://www.cuemath.com/calculus/precalculus/) - cuemath.com
-  
-#### Calculus
-#### Linear Algebra
-* [Scalars, Vectors and Matrices](https://www.mathsisfun.com/algebra/scalar-vector-matrix.html)
-  * A scalar is a number, like 3, -5, 0.368 | A vector is a list of numbers (can be in a row or column) | A matrix is an array of numbers (one or more rows, one or more columns).
-* [Khan Academy - Linear algebra](https://www.khanacademy.org/math/linear-algebra)
-* [Essential Math for Data Science: Introduction to Matrices and the Matrix Product](https://www.kdnuggets.com/2021/02/essential-math-data-science-matrices-matrix-product.html)
-* [Graphing Calculator](https://www.desmos.com/calculator) ⭐ - desmos.com | Explore math with our beautiful, free online graphing calculator.
-* [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - 3Blue1Brown
-* [The Art of Linear Programming 📺 ~19min](https://www.youtube.com/watch?v=E72DWgKP_1Y) ⭐ - Tom S
 
 #### Matrices
+* [Essential Math for Data Science: Introduction to Matrices and the Matrix Product](https://www.kdnuggets.com/2021/02/essential-math-data-science-matrices-matrix-product.html)
 * [The Applications of Matrices | What I wish my teachers told me way earlier 📺 ~25min](https://www.youtube.com/watch?v=rowWM-MijXU) - Zach Star
 * [Introduction to Matrices](https://math.libretexts.org/Bookshelves/Applied_Mathematics/Applied_Finite_Mathematics_(Sekhon_and_Bloom)/02%3A_Matrices/2.01%3A_Introduction_to_Matrices) ⭐ - math.libretexts.org
 * [Matrix Calculator - DESMOS](https://www.desmos.com/matrix) - desmos.com [How to](https://help.desmos.com/hc/en-us/articles/4404851938445-Matrix-Calculator)
-  
+* [Scalars, Vectors and Matrices](https://www.mathsisfun.com/algebra/scalar-vector-matrix.html)
+  * A scalar is a number, like 3, -5, 0.368 | A vector is a list of numbers (can be in a row or column) | A matrix is an array of numbers (one or more rows, one or more columns).
+      
 #### Gradient
 * [What Is a Gradient in Machine Learning?](https://machinelearningmastery.com/gradient-in-machine-learning/) - machinelearningmastery.com
 * [Understanding Gradient Descent Algorithm and the Maths Behind It](https://www.analyticsvidhya.com/blog/2021/08/understanding-gradient-descent-algorithm-and-the-maths-behind-it/) - analyticsvidhya.com
@@ -286,6 +290,8 @@ Probability and Statistics: Basic understanding of probabilities, probability di
 * [statisticsfun](https://www.youtube.com/channel/UClD8c_piy1nrJySPJUgyivg)
 * [Evidence-Based Practice](https://www.youtube.com/playlist?list=PLY8_JDQGfT2YagtzhXIQikjXlSNDNFtAo) - Rich Simpson
 * [How Imaginary Numbers Were Invented](https://www.youtube.com/watch?v=cUzklzVXJwo)
+
+-----
 
 #### Learning
 * [Praxis Core Math](https://www.khanacademy.org/test-prep/praxis-math/praxis-math-lessons) - .khanacademy.org
