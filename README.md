@@ -279,6 +279,8 @@ Probability and Statistics: Basic understanding of probabilities, probability di
 #### Books
 * [Mathematics for Machine Learning (Free)](https://mml-book.github.io/)
 
+#### Python
+* [manim](https://github.com/3b1b/manim) - Mathematical Animation Engine 
 
 #### YouTube :tv:
 * [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0) - MIT OpenCourseWare
