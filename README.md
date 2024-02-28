@@ -303,7 +303,12 @@ Probability and Statistics: Basic understanding of probabilities, probability di
 * [The Data Journey](https://www.statcan.gc.ca/en/wtc/data-literacy/catalogue) - statcan.gc.ca
 * [Free Data Science Courses - Harvard University](https://pll.harvard.edu/catalog?keywords=&subject%5B%5D=84&free%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=) - harvard.edu
   
+-----
 
+## Special Videos 📺
+* [The Trillion Dollar Equation](https://www.youtube.com/watch?v=A5w-dEgIU1M) - Veritasium
+
+  
 -----
 ## Related Topics
 * [Machine Learning](https://github.com/NajiElKotob/Awesome-ML) - Awesome ML
