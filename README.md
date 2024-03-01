@@ -256,6 +256,7 @@ Probability and Statistics: Basic understanding of probabilities, probability di
   
 ### Calculus
 #### Precalculus
+* [Calculus made EASY! 5 Concepts you MUST KNOW before taking calculus! 📺 ~24min](https://www.youtube.com/watch?v=AKmuk0OM-DM) - Dr Ji Tutoring
 * [Precalculus by Richard Wright](https://www.andrews.edu/~rwright/Precalculus-RLW/Text/TOC.html) - andrews.edu
 * [Precalculus & Trigonometry](https://math.libretexts.org/Bookshelves/Precalculus) - math.libretexts.org
 * [Precalculus (Cuemath)](https://www.cuemath.com/calculus/precalculus/) - cuemath.com
