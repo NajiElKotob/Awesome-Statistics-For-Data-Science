@@ -243,7 +243,9 @@
 `Linear Algebra: Fundamental concepts such as matrices, vectors, dot products, and matrix multiplication are crucial. Linear algebra provides the language and framework for describing and manipulating data in ML.
 Calculus: Understanding of derivatives and gradients is important for optimization problems in ML, including gradient descent.
 Probability and Statistics: Basic understanding of probabilities, probability distributions, means, variances, and expectation values is essential for understanding models, making predictions, and evaluating model performance.`
-
+#### Pre-Algebra
+* [Factors and multiples](https://github.com/NajiElKotob/Awesome-Statistics-For-Data-Science/blob/master/Math/Factorization.md)
+  
 #### Linear Algebra
 * [Khan Academy - Linear algebra](https://www.khanacademy.org/math/linear-algebra)
 
