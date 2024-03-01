@@ -6,3 +6,7 @@
 * Two numbers that we multiply together to get a certain product are called factor pairs.
 * Every number has 1 as a factor.
 * Every number has itself as a factor.
+* 4 is is a factor of 32; 32 is a multiple of 4
+
+## References
+* [Factors and multiples](https://www.khanacademy.org/math/pre-algebra/pre-algebra-factors-multiples)
