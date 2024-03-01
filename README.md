@@ -289,10 +289,8 @@ Probability and Statistics: Basic understanding of probabilities, probability di
 * [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0) - MIT OpenCourseWare
 * [Joshua Emmanuel](https://www.youtube.com/c/profjoshemman)
 * [zedstatistics](https://www.youtube.com/channel/UC6AVa0vSrCpuskzGDDKz_EQ) :star:
-* [Dr Nic's Maths and Stats](https://www.youtube.com/channel/UCG32MfGLit1pcqCRXyy9cAg)
 * [Stephanie Glen](https://www.youtube.com/channel/UCs3IhN8VOA_5WxpAgbSmFkg) - statisticshowto.com
 * [Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566) - The average, Descriptive statistics, Probability and Statistics
-* [statisticsfun](https://www.youtube.com/channel/UClD8c_piy1nrJySPJUgyivg)
 * [Evidence-Based Practice](https://www.youtube.com/playlist?list=PLY8_JDQGfT2YagtzhXIQikjXlSNDNFtAo) - Rich Simpson
 * [How Imaginary Numbers Were Invented](https://www.youtube.com/watch?v=cUzklzVXJwo)
 
@@ -310,7 +308,13 @@ Probability and Statistics: Basic understanding of probabilities, probability di
 ## Special Videos 📺
 * [The Trillion Dollar Equation](https://www.youtube.com/watch?v=A5w-dEgIU1M) - Veritasium
 
-  
+## Special Channels 📺
+* [Dr Nic's Maths and Stats](https://www.youtube.com/channel/UCG32MfGLit1pcqCRXyy9cAg)
+* [statisticsfun](https://www.youtube.com/channel/UClD8c_piy1nrJySPJUgyivg)
+
+
+
+ 
 -----
 ## Related Topics
 * [Machine Learning](https://github.com/NajiElKotob/Awesome-ML) - Awesome ML
