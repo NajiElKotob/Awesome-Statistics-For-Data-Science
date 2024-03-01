@@ -245,6 +245,7 @@ Calculus: Understanding of derivatives and gradients is important for optimizati
 Probability and Statistics: Basic understanding of probabilities, probability distributions, means, variances, and expectation values is essential for understanding models, making predictions, and evaluating model performance.`
 #### Pre-Algebra
 * [Factors and multiples](https://github.com/NajiElKotob/Awesome-Statistics-For-Data-Science/blob/master/Math/Factorization.md)
+* Prime numbers
   
 #### Linear Algebra
 * [Khan Academy - Linear algebra](https://www.khanacademy.org/math/linear-algebra)
