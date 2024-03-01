@@ -4,3 +4,4 @@
 * For example, factorizing the number 15 results in 3 and 5, since \(3 * 5 = 15\).
 * Similarly, factorizing the polynomial \(x^2 - 9\) yields \((x - 3)(x + 3)\), because \((x - 3)(x + 3)\) multiplies out to \(x^2 - 9\).
 * Every number has 1 as a factor.
+* Every number has itself as a factor.
