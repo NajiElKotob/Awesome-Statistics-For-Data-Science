@@ -314,7 +314,7 @@ Probability and Statistics: Basic understanding of probabilities, probability di
 ## Special Channels 📺
 * [Dr Nic's Maths and Stats](https://www.youtube.com/channel/UCG32MfGLit1pcqCRXyy9cAg)
 * [statisticsfun](https://www.youtube.com/channel/UClD8c_piy1nrJySPJUgyivg)
-
+* [Statistics (Khan Academy)](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
 
 
  
