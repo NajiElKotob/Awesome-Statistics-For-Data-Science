@@ -182,6 +182,10 @@
   * [How To Calculate Cohen's d In Excel](https://www.youtube.com/watch?v=zUmQ2PZZRJ4)
 * [Power Analysis, Clearly Explained! :tv:](https://www.youtube.com/watch?v=VX_M3tIyiYk) - StatQuest
 
+-----
+
+## Probabilities
+* [Probability Basics](https://www.youtube.com/playlist?list=PLaFfQroTgZnxtnfht3BzBHVfxodX9AR9F) - 365 Data Science
 
 -----
 ### Other Topics
@@ -300,7 +304,7 @@ Probability and Statistics: Basic understanding of probabilities, probability di
 -----
 
 #### Learning
-* [Praxis Core Math](https://www.khanacademy.org/test-prep/praxis-math/praxis-math-lessons) - .khanacademy.org
+* [Praxis Core Math](https://www.khanacademy.org/test-prep/praxis-math/praxis-math-lessons) - khanacademy.org
 * [Data Science for Beginners (Microsoft)](https://github.com/microsoft/Data-Science-For-Beginners)
 * [Introduction to Data Science](http://dept.stat.lsa.umich.edu/~kshedden/introds/topics/what_is_statistics/) - umich.edu
 * [The Data Journey](https://www.statcan.gc.ca/en/wtc/data-literacy/catalogue) - statcan.gc.ca
