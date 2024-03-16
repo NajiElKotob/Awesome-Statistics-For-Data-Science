@@ -253,6 +253,7 @@ Probability and Statistics: Basic understanding of probabilities, probability di
   
 #### Linear Algebra
 * [Khan Academy - Linear algebra](https://www.khanacademy.org/math/linear-algebra)
+* [Linear Algebra for Machine Learning](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a) - Jon Krohn | (48 videos) This is a complete course on linear algebra for machine learning.
 
 ##### YouTube 📺
 * [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - 3Blue1Brown
