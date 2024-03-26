@@ -88,14 +88,15 @@
   * Kurtosis (Leptokurtic, Mesokurtic, Platykurtic)
 * Percentiles, Quartiles, Quintile and Decile
   * Percentiles
-    * The 30th percentile is the value from the data set greater than 30% of observations, and therefore less than 70% of observations. 
-    * Median = 50th percentile
-    * 1st Quartile = 25th percentile
-    * 3rd Quartile = 75th percentile
-    * IQR = The difference between Q3 and Q1. IQR contains the middle 50% of data
+    - The 30th percentile is the value from the data set greater than 30% of observations, and therefore less than 70% of observations. 
+    - Median = 50th percentile
+    - 1st Quartile = 25th percentile
+    - 3rd Quartile = 75th percentile
+    - IQR = The difference between Q3 and Q1. IQR contains the middle 50% of data
   * [Quartiles](https://www.mathsisfun.com/data/quartiles.html) are the values that divide a list of numbers into quarters - mathsisfun.com
-    * Interquartile range =  3rd quartile - 1st quartile
-    * Exclusive method vs inclusive method - The exclusive method excludes the median when identifying Q1 and Q3, while the inclusive method includes the median in identifying the quartiles.
+    - Interquartile range =  3rd quartile - 1st quartile
+    - Exclusive method vs inclusive method - The exclusive method excludes the median when identifying Q1 and Q3, while the inclusive method includes the median in identifying the quartiles.
+    - [Quartile Deviation](https://byjus.com/maths/quartile-deviation/) - byjus.com | Quartile Deviation for Ungrouped/Grouped Data
   * Quintile - "A quintile is one of five values that divide a range of data into five equal parts, each being 1/5th (20 percent) of the range." [Investopedia](https://www.investopedia.com/terms/q/quintile.asp)
   * Decile - Devide a range of data into ten equal parts, each being 1/10th (10 percent) of the range. 1st and 9th deciles equal to 10th and 90th percentiles.
   * Outliers
