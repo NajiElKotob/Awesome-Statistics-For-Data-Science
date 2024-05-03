@@ -322,7 +322,7 @@ Probability and Statistics: Basic understanding of probabilities, probability di
 * [statisticsfun](https://www.youtube.com/channel/UClD8c_piy1nrJySPJUgyivg)
 * [Statistics (Khan Academy)](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
 * [Statistics (CrashCourse)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
-
+* [Statistics - A Full Lecture to learn Data Science ~4 hours](https://www.youtube.com/watch?v=Ym1iH8-GQOE) - DATAtab
  
 -----
 ## Related Topics
