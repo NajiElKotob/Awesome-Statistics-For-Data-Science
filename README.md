@@ -132,8 +132,14 @@
 * [Probability Basics](https://www.youtube.com/playlist?list=PLaFfQroTgZnxtnfht3BzBHVfxodX9AR9F) - 365 Data Science
 
 ### Percentiles
+`Percentiles are measures that indicate the relative position of a value within a data set. A percentile represents the percentage of values in the data set that fall below a given value. For example, the 50th percentile (median) is the value below which 50% of the data points lie.`
+
 ### Permutations
+`Permutations refer to the different ways in which a set of items can be arranged in a specific order. The order of arrangement is important in permutations. For example, the permutations of the set {A, B, C} are ABC, ACB, BAC, BCA, CAB, and CBA.`
+
+
 ### Combinations
+`Combinations are the different ways of selecting items from a larger set where the order of selection does not matter. For example, the combinations of choosing 2 items from the set {A, B, C} are AB, AC, and BC.`
 
 -----
 
