@@ -38,6 +38,8 @@
 * Visualization Bias 
 * Simpson's Paradox
 
+-----
+
 ## Numbers and Statistics
 ### Statistical Analysis
 #### Samples and Populations
@@ -124,6 +126,13 @@
 
 -----
 
+## Probabilities
+`Probabilities refer to the measure of the likelihood that a particular event will occur. It quantifies uncertainty and is a fundamental concept in statistics and mathematics. Probabilities are expressed as numbers between 0 and 1, where 0 indicates that an event will not occur, and 1 indicates that an event will certainly occur.`
+* [Probability Basics](https://www.youtube.com/playlist?list=PLaFfQroTgZnxtnfht3BzBHVfxodX9AR9F) - 365 Data Science
+
+
+-----
+
 #### Inferential Statistic
 ##### Hypothesis
 * Hypothesis tests attempt to provide an answer to questions such as "How likely is an observation just random change?"
@@ -183,10 +192,6 @@
   * [How To Calculate Cohen's d In Excel](https://www.youtube.com/watch?v=zUmQ2PZZRJ4)
 * [Power Analysis, Clearly Explained! :tv:](https://www.youtube.com/watch?v=VX_M3tIyiYk) - StatQuest
 
------
-
-## Probabilities
-* [Probability Basics](https://www.youtube.com/playlist?list=PLaFfQroTgZnxtnfht3BzBHVfxodX9AR9F) - 365 Data Science
 
 -----
 ### Other Topics
