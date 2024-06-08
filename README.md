@@ -131,7 +131,9 @@
 ### Probability Basics
 * [Probability Basics](https://www.youtube.com/playlist?list=PLaFfQroTgZnxtnfht3BzBHVfxodX9AR9F) - 365 Data Science
 
-
+### Percentiles
+### Permutations
+### Combinations
 
 -----
 
