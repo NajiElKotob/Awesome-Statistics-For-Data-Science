@@ -144,6 +144,12 @@
 `Combinations are the different ways of selecting items from a larger set where the order of selection does not matter. For example, the combinations of choosing 2 items from the set {A, B, C} are AB, AC, and BC.`
 
 ### Multiple Events Probabilities
+`Multiple Events Probabilities refer to the likelihood of various combinations of events occurring in a given scenario. It involves calculating the probability of two or more events happening together or in sequence.`
+
+### Discrite and Continous Probabilities
+`Discrete and Continuous Probabilities refer to the types of random variables and their associated probability distributions. Discrete probabilities deal with discrete random variables, which have a countable number of possible values. Examples include the number of heads in coin tosses or the number of students in a class. Continuous probabilities deal with continuous random variables, which have an infinite number of possible values within a given range. Examples include heights, weights, and time.`
+
+
 -----
 
 #### Inferential Statistic
