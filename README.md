@@ -145,6 +145,13 @@
 
 ### Multiple Events Probabilities
 `Multiple Events Probabilities refer to the likelihood of various combinations of events occurring in a given scenario. It involves calculating the probability of two or more events happening together or in sequence.`
+#### Probabilities of two events
+#### Conditional Probabilities
+#### Law of Total Probability
+#### Multiplication rule
+#### Probability trees
+#### Bayes Theorem
+
 
 ### Discrite and Continous Probabilities
 `Discrete and Continuous Probabilities refer to the types of random variables and their associated probability distributions. Discrete probabilities deal with discrete random variables, which have a countable number of possible values. Examples include the number of heads in coin tosses or the number of students in a class. Continuous probabilities deal with continuous random variables, which have an infinite number of possible values within a given range. Examples include heights, weights, and time.`
