@@ -341,6 +341,7 @@ Probability and Statistics: Basic understanding of probabilities, probability di
 -----
 
 #### Learning
+* [Statistics Tutorial](https://www.w3schools.com/statistics/index.php) - w3schools.com
 * [Praxis Core Math](https://www.khanacademy.org/test-prep/praxis-math/praxis-math-lessons) - khanacademy.org
 * [Data Science for Beginners (Microsoft)](https://github.com/microsoft/Data-Science-For-Beginners)
 * [Introduction to Data Science](http://dept.stat.lsa.umich.edu/~kshedden/introds/topics/what_is_statistics/) - umich.edu
