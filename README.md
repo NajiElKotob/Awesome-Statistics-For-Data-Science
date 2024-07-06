@@ -359,7 +359,11 @@ Probability and Statistics: Basic understanding of probabilities, probability di
 * [Statistics (Khan Academy)](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
 * [Statistics (CrashCourse)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
 * [Statistics - A Full Lecture to learn Data Science ~4 hours](https://www.youtube.com/watch?v=Ym1iH8-GQOE) - DATAtab
- 
+
+-----
+## Articles
+* [What This Graph of a Dinosaur Can Teach Us about Doing Better Science](https://www.scientificamerican.com/article/what-this-graph-of-a-dinosaur-can-teach-us-about-doing-better-science/) - scientificamerican.com
+  
 -----
 ## Related Topics
 * [Machine Learning](https://github.com/NajiElKotob/Awesome-ML) - Awesome ML
