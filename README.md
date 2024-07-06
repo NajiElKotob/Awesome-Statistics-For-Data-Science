@@ -48,6 +48,7 @@
   * Probability sampling; Non-probability sampling
 * Sample Size
   * [Sample Size Calculator](https://www.calculator.net/sample-size-calculator.html) - calculator.net
+  * [Calculate your sample size](https://www.surveymonkey.com/mp/sample-size-calculator/) - surveymonkey.com
   * A general rule of thumb for the Large Enough Sample Condition is that n≥30, where n is your sample size. [Learn more](https://www.statisticshowto.com/large-enough-sample-condition/) - statisticshowto.com
   * [Margin of Error & Sample size Calculator](https://aytm.com/pages/mes) - aytm.com
   * Number of Samples (You can Afford) = Budget / Cost per Sample
