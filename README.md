@@ -165,6 +165,9 @@
 -----
 
 #### Inferential Statistic
+##### Core concepts
+* T-distribution vs. z-distribution
+  
 ##### Hypothesis
 * Hypothesis tests attempt to provide an answer to questions such as "How likely is an observation just random change?"
 * Null Hypothesis
