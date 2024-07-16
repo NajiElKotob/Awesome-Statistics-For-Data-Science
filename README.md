@@ -143,6 +143,9 @@
 
 #### Combinations
 `Combinations are the different ways of selecting items from a larger set where the order of selection does not matter. For example, the combinations of choosing 2 items from the set {A, B, C} are AB, AC, and BC.`
+* To calculate the probability of winning a lottery where you need to guess 6 correct numbers out of 42, we can use combinations (also known as "combinatorics").
+  -  The total number of possible combinations of 6 numbers out of 42: 42! / 6! (42-6)! = 5,245,786
+  -  The probability: The probability is approximately 0.0000001907, or 1 in 5,245,786
 
 ### Multiple Events Probabilities
 `Multiple Events Probabilities refer to the likelihood of various combinations of events occurring in a given scenario. It involves calculating the probability of two or more events happening together or in sequence.`
