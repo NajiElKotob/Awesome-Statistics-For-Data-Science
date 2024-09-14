@@ -32,11 +32,16 @@
 
 ## Data Bias
 * Selection bias
+`Bias that occurs when the sample is not representative of the population due to non-random selection.`
 * [Berkson’s Bias](https://www.statology.org/berksons-bias/) - statology.org | Berkson’s bias is a type of bias that occurs in research when two variables appear to be negatively correlated in sample data, but are actually positively correlated in the overall population.
 * Historical Bias
+`Bias that results from data reflecting outdated or skewed social, cultural, or historical norms.`
 * Outlier Bias
-* Visualization Bias 
+`Bias introduced by extreme values that disproportionately influence statistical analysis or visual representations.`
+* Visualization Bias
+`Bias caused by the way data is visually presented, potentially misleading the viewer's interpretation.`
 * Simpson's Paradox
+`A phenomenon where a trend appears in several different groups of data but disappears or reverses when these groups are combined.`
 
 -----
 
