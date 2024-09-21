@@ -287,7 +287,7 @@
 * [Introduction to Statistics](https://courses.lumenlearning.com/odessa-introstats1-1/) - courses.lumenlearning.com
 * [Mathspace](https://mathspace.co/textbooks/syllabuses/select) :star: - mathspace.co | We bring all of your learning tools together in one place, from video lessons, textbooks, to adaptive practice. Encourage your students to become self-directed learners.
 * [Introduction to Probability for Data Science](https://probability4datascience.com/) - probability4datascience.com
-
+* [Introduction to Statistical Learning 📺 ~12 hours](https://www.youtube.com/watch?v=LFHkVEXzua4&list=PL0IrMnm2latFeEnHVBJ3uolwegasVM9Ns&index=2)
 
 -----
 
