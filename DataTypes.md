@@ -127,3 +127,4 @@ Like interval data but with a true zero, making more operations possible. Exampl
 
 ## References
 * [Individuals, variables, and categorical & quantitative data](https://www.khanacademy.org/math/ap-statistics/analyzing-categorical-ap/xfb5d8e68:language-variation-variables/e/individuals-variables-categorical-quantitative-data) - khanacademy.org
+* [What is data?](https://www.ibm.com/think/topics/data) - ibm.com
