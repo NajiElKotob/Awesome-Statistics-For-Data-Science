@@ -255,6 +255,8 @@
 * A/B Testing
 * Baye’s Theorem
 * Types of Distribution | Normal; Binomial; Uniform; Poisson; Beta; Gamma; Log
+* Time series
+  - [Forecasting: Principles and Practice](https://otexts.com/fpp3/) ⭐ - Rob J Hyndman and George Athanasopoulos | Monash University, Australia
 
 -----
 ### Tools
