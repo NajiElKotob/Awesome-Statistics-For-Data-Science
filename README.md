@@ -13,7 +13,8 @@
   * [Data Analytics vs Data Analysis](https://www.bmc.com/blogs/data-analytics-vs-data-analysis/) - bmc.com
   * [Data literacy training](https://www.statcan.gc.ca/en/wtc/data-literacy) - statcan.gc.ca
   * [Data Literacy Preview: Study Hall: ASU + Crash Course 📺](https://www.youtube.com/watch?v=0H8awA3GBPg&list=PLID58IQe16nE-1980HOGDWsvf0skE2jvS&index=1) ⭐ - Arizona State University
-* A [Data Culture](https://www.tableau.com/why-tableau/data-culture) is the collective behaviors and beliefs of people who value, practice, and encourage the use of data to improve decision-making. 
+  * A [Data Culture](https://www.tableau.com/why-tableau/data-culture) is the collective behaviors and beliefs of people who value, practice, and encourage the use of data to improve decision-making.
+  * [DIKW (The Limits of AI: Generative AI, NLP, AGI, & What’s Next?) 📺 ~20min](https://www.youtube.com/watch?v=rBlCOLfMYfw) - IBM Technology
 * Data Types
   * Qualitative
     * Nominal, Ordinal, Binary
