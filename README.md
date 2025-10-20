@@ -238,6 +238,12 @@
 
 
 -----
+### Forecasting Techniques 
+* Time series
+  - [Forecasting: Principles and Practice](https://otexts.com/fpp3/) ⭐ - Rob J Hyndman and George Athanasopoulos | Monash University, Australia
+ 
+    
+-----
 ### Other Topics
 * Equations and Functions
   * [The Distributive Property (Video)](https://www.youtube.com/watch?v=v-6MShC82ow) - Algebra Basics: The Distributive Property - Math Antics
@@ -256,8 +262,7 @@
 * A/B Testing
 * Baye’s Theorem
 * Types of Distribution | Normal; Binomial; Uniform; Poisson; Beta; Gamma; Log
-* Time series
-  - [Forecasting: Principles and Practice](https://otexts.com/fpp3/) ⭐ - Rob J Hyndman and George Athanasopoulos | Monash University, Australia
+
 
 -----
 ### Tools
