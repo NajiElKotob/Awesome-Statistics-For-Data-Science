@@ -239,9 +239,12 @@
 
 -----
 ### Forecasting Techniques 
+* Simple Linear Regression
+* Multiple Linear Regression
+* ETS (AAA, AAN, MAM)
 * Time series
   - [Forecasting: Principles and Practice](https://otexts.com/fpp3/) ⭐ - Rob J Hyndman and George Athanasopoulos | Monash University, Australia
- 
+* Moving Average (MA) 
     
 -----
 ### Other Topics
