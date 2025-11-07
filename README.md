@@ -256,9 +256,6 @@
   * [Calculating a Weighted Average (Average of Averages)](https://help.analyticsedge.com/howto/calculating-the-average-of-averages/)- Analytics Edge
 * [Anscombe's Quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
 * [The Datasaurus Dozen](https://www.autodesk.com/research/publications/same-stats-different-graphs) - Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing.
-* Derivatives and Optimizations
-* Points, Vectors and Matrices
-* [Plane](https://www.mathsisfun.com/geometry/plane.html) - mathsisfun.com | A plane is a flat surface (2D) with no thickness that extends forever.
 * Wide and Long data
 * [Pairwise vs. Listwise deletion](https://www.ibm.com/support/pages/pairwise-vs-listwise-deletion-what-are-they-and-when-should-i-use-them)
 * Monte Carlo
@@ -267,8 +264,11 @@
 * A/B Testing
 * Baye’s Theorem
 * Types of Distribution | Normal; Binomial; Uniform; Poisson; Beta; Gamma; Log
-
-
+* ML
+- Derivatives and Optimizations
+- Points, Vectors and Matrices
+- [Plane](https://www.mathsisfun.com/geometry/plane.html) - mathsisfun.com | A plane is a flat surface (2D) with no thickness that extends forever.
+- Loss Function, Gradient Descent, and Chain Rule
 -----
 ### Tools
 * [Statistics Kingdom](https://www.statskingdom.com/) - statskingdom.com
