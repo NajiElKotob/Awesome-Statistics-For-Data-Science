@@ -133,6 +133,9 @@
     * [Covariance (CFI)](https://corporatefinanceinstitute.com/resources/data-science/covariance/) - orporatefinanceinstitute.com | A measure of the relationship between random variables
 * [Normalization vs Standardization](https://towardsdatascience.com/normalization-vs-standardization-cb8fe15082eb)
 
+#### Interactive Labs
+* [Seeing Theory](https://seeing-theory.brown.edu/) - brown.edu
+
 -----
 
 ## Probabilities
