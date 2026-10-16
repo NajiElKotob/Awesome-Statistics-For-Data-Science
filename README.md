@@ -79,6 +79,7 @@
   * Median (The "middle" of a sorted list of numbers) - Diminish the effect of outliers (aka Med, M, x̃ 'x-tilde')
   * Mode (Most Often) - bi-modal distribution; categorical data
   * [Numerical Summarization](https://online.stat.psu.edu/stat508/lesson/1b/1b.2) - stat.psu.edu
+  * [Mean, median and mode calculator](https://librecalculator.com/calculators/average/) - Libre Calculator
   * Sensitivity to skewness
 * Measures of Variability (Dispersion)
   * Range
