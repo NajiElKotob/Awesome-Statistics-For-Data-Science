@@ -298,6 +298,7 @@
 * [Survey testing](https://www.abs.gov.au/websitedbs/d3310114.nsf/home/Basic+Survey+Design+-+Survey+Testing) - abs.gov.au
 
 ### Books
+* [An Introduction to Statistical Learning](https://www.statlearning.com/) - statlearning.com
 * [Pattern Recognition and Machine Learning (Free)](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 * [Analysis of Multiple Dependent Variables](https://www.amazon.com/Analysis-Multiple-Dependent-Variables-Research/dp/0199773599)
 * [Introductory Statistics](https://saylordotorg.github.io/text_introductory-statistics/index.html) - saylordotorg.github.io
